@@ -1,6 +1,6 @@
 <?php
 
-namespace HireME\Entities;
+namespace HireMe\Entities;
 
 use Illuminate\Auth\UserInterface;
 use Illuminate\Auth\Reminders\RemindableInterface;

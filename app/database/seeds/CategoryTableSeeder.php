@@ -1,5 +1,7 @@
 <?php
 
+namespace HireMe\Entities;
+
 class CategoryTableSeeder extends Seeder {
 
 	public function run()

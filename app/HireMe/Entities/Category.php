@@ -1,6 +1,6 @@
 <?php
 
-namespace HireME\Entities;
+namespace HireMe\Entities;
 
 class Category extends \Eloquent {
 	protected $fillable = [];
