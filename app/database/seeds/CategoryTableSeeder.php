@@ -1,6 +1,6 @@
 <?php
 
-namespace HireMe\Entities;
+use HireMe\Entities\Category;
 
 class CategoryTableSeeder extends Seeder {
 
