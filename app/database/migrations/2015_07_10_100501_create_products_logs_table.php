@@ -15,6 +15,11 @@ class CreateProductsLogsTable extends Migration {
 		Schema::create('products_logs', function(Blueprint $table)
 		{
 			$table->increments('id');
+			$table->integer("user_id");
+			$table->integer("product_id");
+			$table->date("date_in");
+			$table->date("date_out");
+			$table->text("description",200);
 			$table->timestamps();
 		});
 	}
