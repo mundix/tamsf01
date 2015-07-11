@@ -21,12 +21,12 @@ class CreateCandidatesTable extends Migration {
             $table->enum("job_type",['full','partial','freelance']);
             $table->integer('category_id')->unsigned();//Relacion de Categoria con candidatos
             //No tendra numeros negativos
-            $table->boolean("available");
+			$table->boolean("available");
             $table->string("slug");
 
             //Rererencia de CAtegory ID
             //Asi es como se hace la relacion foranea
-            $table->foreign("category_id")->references("id")->on("categories");
+			$table->foreign("category_id")->references("id")->on("categories");
 
 			$table->timestamps();
 		});

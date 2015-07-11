@@ -15,6 +15,12 @@ class CreateProductsCategoriesTable extends Migration {
 		Schema::create('products_categories', function(Blueprint $table)
 		{
 			$table->increments('id');
+			$table->string("name");
+			$table->text("description",200);
+			$table->string("slug");
+			$table->integer('parent_d')->unsigned();//Relacion de Categoria con candidatos
+			$table->boolean("available");
+			$table->foreign("parent_d")->references("id")->on("products_categories");
 			$table->timestamps();
 		});
 	}
