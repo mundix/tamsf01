@@ -15,6 +15,9 @@ class CreateOrdersCreditsTable extends Migration {
 		Schema::create('orders_credits', function(Blueprint $table)
 		{
 			$table->increments('id');
+			$table->integer("order_id")->unsigned();
+			$table->float("amount",2);
+			$table->foreign("order_id")->references("id")->on("orders");
 			$table->timestamps();
 		});
 	}

@@ -31,7 +31,6 @@ class CreateProductsTable extends Migration {
 			$table->date("date_out");
 			$table->integer("category_id")->unsigned();
 			$table->foreign("category_id")->references("id")->on("products_categories");
-
 			$table->boolean("available");
 			$table->timestamps();
 		});
