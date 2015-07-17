@@ -15,11 +15,13 @@ class CreateInvoicesDetailsTable extends Migration {
 		Schema::create('invoices_details', function(Blueprint $table)
 		{
 			$table->increments('id');
+			$table->integer("invoice_id")->unsigned();
 			$table->integer("product_id")->unsigned();
 			$table->integer("qty");
 			$table->float("price",2);
 
-			$table->foreign("product_id")->references("products")->on("id");
+			$table->foreign("invoice_id")->references("id")->on("invoices");
+			$table->foreign("product_id")->references("id")->on("products");
 
  			$table->timestamps();
 		});

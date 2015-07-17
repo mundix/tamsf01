@@ -16,7 +16,8 @@ class CreateInvoicesPaymentsTable extends Migration
 		Schema::create('invoices_payments', function(Blueprint $table)
 		{
 			$table->increments('id');
-			$table->integer("invoice")->unsigned();
+			$table->integer("invoice_id")->unsigned();
+			$table->foreign("invoice_id")->references("id")->on("invoices");
 			$table->float("amount",2);
 			$table->timestamps();
 		});
