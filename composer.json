@@ -13,9 +13,10 @@
 	"autoload": {
 
 		"psr-4":{
-			"HireMe\\":"app/HireMe",
-			"Inventory\\":"app/Inventory",
-			"Billing\\":"app/Billing"
+			"HireMe\\":"app/models/HireMe",
+			"Inventory\\":"app/models/Inventory",
+			"Billing\\":"app/models/Billing",
+			"Config\\":"app/models/Config"
 		},
 		"classmap": [
 			"app/commands",
