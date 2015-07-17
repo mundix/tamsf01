@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="911cdb2e-6fc1-460a-af47-fc376b25f17d" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/Billing/Entities/Invoice.php" afterPath="$PROJECT_DIR$/app/models/Billing/Entities/Invoice.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/Billing/Entities/InvoiceDetail.php" afterPath="$PROJECT_DIR$/app/models/Billing/Entities/InvoiceDetail.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/Billing/Entities/InvoicePayment.php" afterPath="$PROJECT_DIR$/app/models/Billing/Entities/InvoicePayment.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/Billing/Entities/Order.php" afterPath="$PROJECT_DIR$/app/models/Billing/Entities/Order.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/Billing/Entities/OrderCredit.php" afterPath="$PROJECT_DIR$/app/models/Billing/Entities/OrderCredit.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/Billing/Entities/OrderDetail.php" afterPath="$PROJECT_DIR$/app/models/Billing/Entities/OrderDetail.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/Billing/Entities/OrderStatus.php" afterPath="$PROJECT_DIR$/app/models/Billing/Entities/OrderStatus.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/HireMe/Entities/Candidate.php" afterPath="$PROJECT_DIR$/app/models/HireMe/Entities/Candidate.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/HireMe/Entities/Category.php" afterPath="$PROJECT_DIR$/app/models/HireMe/Entities/Category.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/HireMe/Entities/User.php" afterPath="$PROJECT_DIR$/app/models/HireMe/Entities/User.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/Inventory/Entities/Product.php" afterPath="$PROJECT_DIR$/app/models/Inventory/Entities/Product.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/Inventory/Entities/ProductCategory.php" afterPath="$PROJECT_DIR$/app/models/Inventory/Entities/ProductCategory.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/Inventory/Entities/ProductLog.php" afterPath="$PROJECT_DIR$/app/models/Inventory/Entities/ProductLog.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/database/migrations/2015_07_11_191055_create_invoices_payments_table.php" afterPath="$PROJECT_DIR$/app/database/migrations/2015_07_11_191055_create_invoices_payments_table.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="amsisinvoice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,9 +27,41 @@
       <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5469613">
-              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.39502764">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Candidate.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/HireMe/Entities/Candidate.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.548387">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Category.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/HireMe/Entities/Category.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.4193548">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/HireMe/Entities/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.4193548">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+              <folding>
+                <element signature="e#35#69#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -414,13 +431,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/HireMe/Entities/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/config/app.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3868243">
@@ -428,24 +438,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/HireMe/Entities/Candidate.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.074324325">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/database/seeds/CandidateTableSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4087838">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/HireMe/Entities/Category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.074324325">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -640,10 +636,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/HireMe/Entities/Candidate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.548387">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/HireMe/Entities/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4193548">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/HireMe/Entities/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4193548">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding>
+            <element signature="e#35#69#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5469613">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.39502764">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -11,7 +11,6 @@
 		"laravel/framework": "4.1.*"
 	},
 	"autoload": {
-
 		"psr-4":{
 			"HireMe\\":"app/models/HireMe",
 			"Inventory\\":"app/models/Inventory",
