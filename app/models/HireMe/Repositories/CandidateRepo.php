@@ -19,6 +19,6 @@ class CandidateRepo extends BaseRepo
 
     public function findLastest()
     {
-        return Category::with(['candidate','candidate.user']);
+        return Category::with(['candidates','candidates.user'])->get();
     }
 }

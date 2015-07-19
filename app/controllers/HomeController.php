@@ -15,8 +15,8 @@ class HomeController extends BaseController
 
 	public function index()
 	{
-		$lastest_candidates = $this->candidateRepo->findLastest();
+		$latest_candidates = $this->candidateRepo->findLastest();
 
-		return View::make('home',compact('lastest_candidates'));
+		return View::make('home',compact('latest_candidates'));
 	}
 }
