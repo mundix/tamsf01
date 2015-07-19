@@ -1,14 +1,16 @@
 <?php
 
 namespace HireMe\Repositories;
+use Commons\Repositories\BaseRepo;
 use HireMe\Entities\Category;
 
-class CategoryRepo
+class CategoryRepo extends BaseRepo
 {
-    //Voy a definir mi metodo find($id)
-    //por que es el repoquien se tiene que encargar de hacer las consultas.
-    public function find($id)
+    /**
+     * Este metodo debe estar definido en todos los repos que lo utilizen
+     */
+    public function getModel()
     {
-        return Category::find($id);
+        return new Category;
     }
 }

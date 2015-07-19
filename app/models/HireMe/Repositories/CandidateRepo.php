@@ -1,15 +1,18 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: edmundo
- * Date: 7/17/15
- * Time: 6:08 PM
- */
 
 namespace HireMe\Repositories;
 
+use Commons\Repositories\BaseRepo;
+use HireMe\Entities\Candidate;
 
-class CandidateRepo
+class CandidateRepo extends BaseRepo
 {
 
+    /**
+     * Este metodo debe estar definido en todos los repos que lo utilizen
+     */
+    public function getModel()
+    {
+        return new Candidate;
+    }
 }

@@ -1,15 +1,25 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: edmundo
- * Date: 7/19/15
- * Time: 10:05 AM
- */
 
 namespace Commons\Repositories;
 
-
-class BaseRepo
+/**
+ * Esta clase nunca debe extenderse
+ */
+abstract class BaseRepo
 {
+    protected $model;
 
+    public function __construct()
+    {
+        $this->model = $this->getModel();
+    }
+    /**
+     * Este metodo debe estar definido en todos los repos que lo utilizen
+    */
+    abstract public function getModel();
+
+    public function find($id)
+    {
+        return $this->model->find($id);
+    }
 }
