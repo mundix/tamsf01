@@ -6,4 +6,9 @@ class ProductsController extends BaseController {
 	{
 		dd($slug);
 	}
+
+	public function melon()
+	{
+		return View::make('themes/melon/tpls/layout');
+	}
 }

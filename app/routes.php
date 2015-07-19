@@ -31,3 +31,5 @@ Route::get('candidates/{slug}/{id}',['as' => 'category','uses' => 'CandidatesCon
  * edmundo-pichardo/1
 */
 Route::get('{slug}/{id}',['as' => 'candidate', 'uses' => 'CandidatesController@show']);
+
+Route::get('melons',['as'=>'product','uses'=> 'ProductsController@melon']);
