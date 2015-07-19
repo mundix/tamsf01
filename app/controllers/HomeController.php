@@ -1,9 +1,22 @@
 <?php
 
-class HomeController extends BaseController {
+use HireMe\Repositories\CandidateRepo;
+
+class HomeController extends BaseController
+{
+
+	//Injection de Dependencias
+	protected $candidateRepo;
+
+	public function __construct(CandidateRepo $candidateRepo)
+	{
+		$this->candidateRepo = $candidateRepo;
+	}
 
 	public function index()
 	{
-		return View::make('home'); //Llamando a la vista home
+		$lastest_candidates = $this->candidateRepo;
+
+		return View::make('home',compact('lastest_candidates'));
 	}
 }

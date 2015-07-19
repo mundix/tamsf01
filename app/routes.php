@@ -12,3 +12,12 @@
 */
 
 Route::get('/',['as' => 'home','uses' => 'HomeController@index']);
+
+/**
+ * Segmento para los buscadores Candiadtes, el cual tendra un controller llamado
+ * Candidates y apunte al meotdo de category()
+ * @param String $slug
+ * @param Int $id
+ * @return View
+*/
+Route::get('candidates/{slug}/{id}',['as' => 'category','uses' => 'CandidatesController@category']);

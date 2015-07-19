@@ -5,7 +5,8 @@
 	"license": "MIT",
     "require-dev": {
       "way/generators": "~2.0",
-      "fzaninotto/faker": "v1.3.0"
+      "fzaninotto/faker": "v1.3.0",
+      "barryvdh/laravel-debugbar": "1.*"
     },
 	"require": {
 		"laravel/framework": "4.1.*"
@@ -15,7 +16,7 @@
 			"HireMe\\":"app/models/HireMe",
 			"Inventory\\":"app/models/Inventory",
 			"Billing\\":"app/models/Billing",
-			"Config\\":"app/models/Config"
+			"Resources\\":"app/models/Resources"
 		},
 		"classmap": [
 			"app/commands",
