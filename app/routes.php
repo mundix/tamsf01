@@ -19,5 +19,15 @@ Route::get('/',['as' => 'home','uses' => 'HomeController@index']);
  * @param String $slug
  * @param Int $id
  * @return View
+ * Esta seria l URL de la categoria
+ *
+ * candidates/backend-developer/1
+ *
 */
 Route::get('candidates/{slug}/{id}',['as' => 'category','uses' => 'CandidatesController@category']);
+
+/**
+ * la ruta para un candidate seria
+ * edmundo-pichardo/1
+*/
+Route::get('{slug}/{id}',['as' => 'category', 'uses' => 'CandidatesController@show']);

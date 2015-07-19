@@ -12,6 +12,4 @@ namespace HireMe\Repositories;
 class CandidateRepo
 {
 
-
-
 }

@@ -16,7 +16,8 @@
 			"HireMe\\":"app/models/HireMe",
 			"Inventory\\":"app/models/Inventory",
 			"Billing\\":"app/models/Billing",
-			"Resources\\":"app/models/Resources"
+			"Resources\\":"app/models/Resources",
+			"Commons\\":"app/models/Commons"
 		},
 		"classmap": [
 			"app/commands",
