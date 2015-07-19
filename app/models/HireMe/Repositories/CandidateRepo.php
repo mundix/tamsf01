@@ -4,6 +4,7 @@ namespace HireMe\Repositories;
 
 use Commons\Repositories\BaseRepo;
 use HireMe\Entities\Candidate;
+use HireMe\Entities\Category;
 
 class CandidateRepo extends BaseRepo
 {
@@ -18,6 +19,6 @@ class CandidateRepo extends BaseRepo
 
     public function findLastest()
     {
-
+        return Category::with(['candidate','candidate.user']);
     }
 }

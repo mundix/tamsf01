@@ -2,675 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="911cdb2e-6fc1-460a-af47-fc376b25f17d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/datatables/colvis/ColVis.min.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/datatables/tabletools/TableTools.min.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/bootstrap-colorpicker/img/alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/uniform/images/bg-input-focus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/uniform/images/bg-input.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/datatables/tabletools/swf/copy_csv_xls.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/datatables/tabletools/swf/copy_csv_xls_pdf.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/bootstrap-colorpicker/img/hue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/datatables/responsive/img/minus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/datatables/responsive/img/plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/bootstrap-colorpicker/img/saturation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2-spinner.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2x2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/datatables/img/sort_asc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/datatables/img/sort_asc_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/datatables/img/sort_both.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/datatables/img/sort_desc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/datatables/img/sort_desc_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/uniform/images/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/jquery-ui/images/ui-bg_flat_0_aaaaaa_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/jquery-ui/images/ui-bg_glass_55_fbf9ee_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/jquery-ui/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/jquery-ui/images/ui-bg_glass_75_dadada_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/jquery-ui/images/ui-bg_glass_75_e6e6e6_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/jquery-ui/images/ui-bg_glass_75_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/jquery-ui/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/jquery-ui/images/ui-bg_inset-soft_95_fef1ec_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/jquery-ui/images/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/jquery-ui/images/ui-icons_2e83ff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/jquery-ui/images/ui-icons_454545_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/jquery-ui/images/ui-icons_888888_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/jquery-ui/images/ui-icons_cccccc_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/jquery-ui/images/ui-icons_cd0a0a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/jquery-ui/images/ui-icons_f6cf3b_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/jquery-ui/images/ui-icons_ffffff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/datatables/colvis/ColVis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/datatables/colvis/ColVis.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/datatables/DT_bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/datatables/tabletools/TableTools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/datatables/tabletools/TableTools.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/datatables/tabletools/ZeroClipboard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/additional-methods.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/additional-methods.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/bg_BG.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/bootbox/bootbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/bootbox/bootbox.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/bootstrap-colorpicker/bootstrap-colorpicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/bootstrap-colorpicker/bootstrap-colorpicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/fileupload/bootstrap-fileupload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/fileupload/bootstrap-fileupload.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/bootstrap-multiselect/bootstrap-multiselect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/bootstrap-multiselect/bootstrap-multiselect.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/bootstrap-switch/bootstrap-switch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/bootstrap-switch/bootstrap-switch.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/bootstrap-wysihtml5/bootstrap-wysihtml5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/bootstrap-wysihtml5/bootstrap-wysihtml5.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/noty/layouts/bottom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/noty/layouts/bottomCenter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/noty/layouts/bottomLeft.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/noty/layouts/bottomRight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/bs_BA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/ca_ES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/noty/layouts/center.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/noty/layouts/centerLeft.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/noty/layouts/centerRight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/cs_CZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/da_DK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/datatables/responsive/datatables.responsive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/daterangepicker/daterangepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/de_DE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/noty/themes/default.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/el_GR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/es_ES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/et_EE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/eu_ES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/excanvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/excanvas.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/fi_FI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/fileinput/fileinput.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/fr_FR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/fullcalendar/fullcalendar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/fullcalendar/fullcalendar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/fullcalendar/fullcalendar.print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/fullcalendar/gcal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.af-ZA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.af.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.am-ET.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.am.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ar-AE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ar-BH.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ar-DZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ar-EG.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ar-IQ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ar-JO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ar-KW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ar-LB.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ar-LY.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ar-MA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ar-OM.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ar-QA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ar-SA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ar-SY.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ar-TN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ar-YE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.arn-CL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.arn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.as-IN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.as.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.az-Cyrl-AZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.az-Cyrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.az-Latn-AZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.az-Latn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.az.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ba-RU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ba.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.be-BY.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.be.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.bg-BG.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.bn-BD.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.bn-IN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.bn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.bo-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.bo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.br-FR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.bs-Cyrl-BA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.bs-Cyrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.bs-Latn-BA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.bs-Latn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.bs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ca-ES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.co-FR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.co.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.cs-CZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.cy-GB.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.cy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.da-DK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.de-AT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.de-CH.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.de-DE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.de-LI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.de-LU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.dsb-DE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.dsb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.dv-MV.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.dv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.el-GR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.en-029.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.en-AU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.en-BZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.en-CA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.en-GB.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.en-IE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.en-IN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.en-JM.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.en-MY.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.en-NZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.en-PH.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.en-SG.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.en-TT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.en-US.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.en-ZA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.en-ZW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.es-AR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.es-BO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.es-CL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.es-CO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.es-CR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.es-DO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.es-EC.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.es-ES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.es-GT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.es-HN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.es-MX.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.es-NI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.es-PA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.es-PE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.es-PR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.es-PY.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.es-SV.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.es-US.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.es-UY.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.es-VE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.et-EE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.eu-ES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.fa-IR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.fi-FI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.fil-PH.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.fil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.fo-FO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.fo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.fr-BE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.fr-CA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.fr-CH.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.fr-FR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.fr-LU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.fr-MC.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.fy-NL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.fy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ga-IE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ga.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.gd-GB.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.gd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.gl-ES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.gsw-FR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.gsw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.gu-IN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.gu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ha-Latn-NG.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ha-Latn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ha.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.he-IL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.hi-IN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.hi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.hr-BA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.hr-HR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.hsb-DE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.hsb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.hu-HU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.hy-AM.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.hy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.id-ID.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ig-NG.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ig.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ii-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ii.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.is-IS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.it-CH.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.it-IT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.iu-Cans-CA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.iu-Cans.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.iu-Latn-CA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.iu-Latn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.iu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ja-JP.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ka-GE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ka.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.kk-KZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.kk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.kl-GL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.kl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.km-KH.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.km.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.kn-IN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.kn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ko-KR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.kok-IN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.kok.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ky-KG.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ky.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.lb-LU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.lb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.lo-LA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.lo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.lt-LT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.lv-LV.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.mi-NZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.mi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.mk-MK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ml-IN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.mn-Cyrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.mn-MN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.mn-Mong-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.mn-Mong.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.mn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.moh-CA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.moh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.mr-IN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.mr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ms-BN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ms-MY.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.mt-MT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.mt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.nb-NO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ne-NP.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ne.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.nl-BE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.nl-NL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.nn-NO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.nn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.nso-ZA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.nso.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.oc-FR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.oc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.or-IN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.or.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.pa-IN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.pa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.pl-PL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.prs-AF.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.prs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ps-AF.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ps.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.pt-BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.pt-PT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.qut-GT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.qut.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.quz-BO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.quz-EC.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.quz-PE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.quz.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.rm-CH.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.rm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ro-RO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ru-RU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.rw-RW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.rw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sa-IN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sah-RU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sah.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.se-FI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.se-NO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.se-SE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.se.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.si-LK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.si.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sk-SK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sl-SI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sma-NO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sma-SE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sma.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.smj-NO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.smj-SE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.smj.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.smn-FI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.smn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sms-FI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sq-AL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sr-Cyrl-BA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sr-Cyrl-CS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sr-Cyrl-ME.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sr-Cyrl-RS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sr-Cyrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sr-Latn-BA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sr-Latn-CS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sr-Latn-ME.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sr-Latn-RS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sr-Latn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sv-FI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sv-SE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sw-KE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.sw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.syr-SY.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.syr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ta-IN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ta.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.te-IN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.te.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.tg-Cyrl-TJ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.tg-Cyrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.tg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.th-TH.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.tk-TM.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.tk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.tn-ZA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.tn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.tr-TR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.tt-RU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.tt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.tzm-Latn-DZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.tzm-Latn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.tzm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ug-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.uk-UA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ur-PK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.ur.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.uz-Cyrl-UZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.uz-Cyrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.uz-Latn-UZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.uz-Latn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.uz.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.vi-VN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.wo-SN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.wo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.xh-ZA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.xh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.yo-NG.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.yo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.zh-CHS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.zh-CHT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.zh-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.zh-HK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.zh-Hans.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.zh-Hant.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.zh-MO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.zh-SG.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.zh-TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.zh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.zu-ZA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.culture.zu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/cultures/globalize.cultures.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/globalize/globalize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/gmaps/lib/gmaps.controls.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/gmaps/lib/gmaps.core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/gmaps/lib/gmaps.events.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/gmaps/lib/gmaps.geofences.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/gmaps/lib/gmaps.geometry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/gmaps/gmaps.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/gmaps/lib/gmaps.layers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/gmaps/lib/gmaps.map_types.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/gmaps/lib/gmaps.markers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/gmaps/gmaps.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/gmaps/lib/gmaps.native_extensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/gmaps/lib/gmaps.overlays.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/gmaps/lib/gmaps.routes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/gmaps/lib/gmaps.static.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/gmaps/lib/gmaps.streetview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/gmaps/lib/gmaps.styles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/gmaps/lib/gmaps.utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/he_IL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/hr_HR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/hu_HU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/id_ID.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/noty/layouts/inline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/it_IT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/jquery-ui/jquery-ui-1.10.2.custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/jquery-ui/jquery-ui-1.10.2.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/jquery-ui/jquery-ui-1.9.2.custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/autosize/jquery.autosize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/autosize/jquery.autosize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/blockui/jquery.blockUI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/blockui/jquery.blockUI.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/bootstrap-wizard/jquery.bootstrap.wizard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/bootstrap-wizard/jquery.bootstrap.wizard.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.colorhelpers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.colorhelpers.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/cookie/jquery.cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/cookie/jquery.cookie.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/datatables/columnfilter/jquery.dataTables.columnFilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/datatables/jquery.dataTables.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/datatables/jquery.dataTables.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/duallistbox/jquery.duallistbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/duallistbox/jquery.duallistbox.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/easy-pie-chart/jquery.easy-pie-chart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/easy-pie-chart/jquery.easy-pie-chart.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/event.swipe/jquery.event.move.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/event.swipe/jquery.event.swipe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.canvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.canvas.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.categories.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.categories.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.crosshair.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.crosshair.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.errorbars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.errorbars.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.fillbetween.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.fillbetween.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.growraf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.growraf.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.image.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.image.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.navigate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.navigate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.orderBars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.orderBars.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.pie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.pie.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.resize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.resize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.selection.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.selection.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.stack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.stack.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.symbol.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.symbol.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.threshold.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.threshold.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.time.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.time.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/flot/jquery.flot.tooltip.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/inputlimiter/jquery.inputlimiter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/inputlimiter/jquery.inputlimiter.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/bootstrap-inputmask/jquery.inputmask.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/bootstrap-inputmask/jquery.inputmask.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/knob/jquery.knob.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/knob/jquery.knob.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/nestable/jquery.nestable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/nestable/jquery.nestable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/noty/jquery.noty.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/slimscroll/jquery.slimscroll.horizontal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/slimscroll/jquery.slimscroll.horizontal.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/slimscroll/jquery.slimscroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/slimscroll/jquery.slimscroll.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/sparkline/jquery.sparkline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/sparkline/jquery.sparkline.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/tagsinput/jquery.tagsinput.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/tagsinput/jquery.tagsinput.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/jquery-ui/jquery.ui.1.10.2.ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/jquery-ui/jquery.ui.1.9.2.ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/touchpunch/jquery.ui.touch-punch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/touchpunch/jquery.ui.touch-punch.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/uniform/jquery.uniform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/uniform/jquery.uniform.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/jquery.validate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/jquery.validate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/ko_KR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/themes/melon/tpls/layout.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/legacy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_ka.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_kk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_my.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_pt_BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_pt_PT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_si.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_sr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_zh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/messages_zh_TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/methods_de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/methods_nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/validation/localization/methods_pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/daterangepicker/moment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/daterangepicker/moment.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/nl_NL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/no_NO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/nprogress/nprogress.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/slimscroll/patch.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/picker.date.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/picker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/picker.time.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/pl_PL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/noty/promise.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/pt_BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/pt_PT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/respond/respond.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/ro_RO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/ru_RU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_en.js.template" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_pt-BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_pt-PT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_ua.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_zh-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/select2/select2_locale_zh-TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/sk_SK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/sv_SE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/tagsinput/tags_autocomplete.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/th_TH.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/noty/layouts/top.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/noty/layouts/topCenter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/noty/layouts/topLeft.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/noty/layouts/topRight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/tr_TR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/typeahead/typeahead.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/typeahead/typeahead.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/uk_UA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/bootstrap-wysihtml5/wysihtml5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/bootstrap-wysihtml5/wysihtml5.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/plugins/pickadate/translations/zh_CN.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/themes/melon/tpls/layout.blalde.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/ProductsController.php" afterPath="$PROJECT_DIR$/app/controllers/ProductsController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/blade.xml" afterPath="$PROJECT_DIR$/.idea/blade.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/routes.php" afterPath="$PROJECT_DIR$/app/routes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/HireMe/Repositories/CandidateRepo.php" afterPath="$PROJECT_DIR$/app/models/HireMe/Repositories/CandidateRepo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/CandidatesController.php" afterPath="$PROJECT_DIR$/app/controllers/CandidatesController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/HomeController.php" afterPath="$PROJECT_DIR$/app/controllers/HomeController.php" />
     </list>
     <ignored path="amsisinvoice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -692,33 +26,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="routes.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.51657456">
+            <state vertical-scroll-proportion="-12.064516">
               <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProductsController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/ProductsController.php">
+      <file leaf-file-name="CandidatesController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/controllers/CandidatesController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.172414">
-              <caret line="11" column="39" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.5870166">
+              <caret line="24" column="30" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="30" />
+              <folding>
+                <element signature="e#7#44#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/HomeController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.064516">
+              <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CandidatesController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/CandidatesController.php">
+      <file leaf-file-name="CandidateRepo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/HireMe/Repositories/CandidateRepo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.258064">
-              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+            <state vertical-scroll-proportion="-15.612904">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
-                <element signature="e#7#44#0#PHP" expanded="true" />
+                <element signature="e#39#73#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -781,18 +127,18 @@
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/app/models/Commons/Repositories/BaseRepo.php" />
         <option value="$PROJECT_DIR$/app/models/HireMe/Repositories/CategoryRepo.php" />
-        <option value="$PROJECT_DIR$/app/controllers/CandidatesController.php" />
         <option value="$PROJECT_DIR$/app/lang/en/utils.php" />
         <option value="$PROJECT_DIR$/app/views/candidates/show.blade.php" />
         <option value="$PROJECT_DIR$/app/models/HireMe/Entities/Category.php" />
         <option value="$PROJECT_DIR$/app/views/candidates/category.blade.php" />
         <option value="$PROJECT_DIR$/app/models/HireMe/Entities/Candidate.php" />
-        <option value="$PROJECT_DIR$/app/controllers/HomeController.php" />
-        <option value="$PROJECT_DIR$/app/models/HireMe/Repositories/CandidateRepo.php" />
         <option value="$PROJECT_DIR$/app/views/themes/melon/tpls/layout.blalde.php" />
         <option value="$PROJECT_DIR$/app/controllers/ProductsController.php" />
         <option value="$PROJECT_DIR$/app/routes.php" />
         <option value="$PROJECT_DIR$/app/views/themes/melon/tpls/layout.blade.php" />
+        <option value="$PROJECT_DIR$/app/controllers/HomeController.php" />
+        <option value="$PROJECT_DIR$/app/models/HireMe/Repositories/CandidateRepo.php" />
+        <option value="$PROJECT_DIR$/app/controllers/CandidatesController.php" />
       </list>
     </option>
   </component>
@@ -1333,6 +679,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.048780486">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="34" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1347,6 +694,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3472023">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1428,6 +776,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1266187">
           <caret line="4" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1435,6 +784,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.39856115">
           <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1452,46 +802,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/HireMe/Repositories/CandidateRepo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6094183">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="e#39#73#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/melon/plugins/flot/excanvas.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.29139072">
           <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57734805">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/CandidatesController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.258064">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-          <folding>
-            <element signature="e#7#44#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/ProductsController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.172414">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -1520,11 +834,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/ProductsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3472023">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51657456">
+        <state vertical-scroll-proportion="-12.064516">
           <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.064516">
+          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/HireMe/Repositories/CandidateRepo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.612904">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="e#39#73#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/CandidatesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5870166">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <element signature="e#7#44#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

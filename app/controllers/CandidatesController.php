@@ -22,7 +22,7 @@ class CandidatesController extends BaseController
 		return View::make('candidates/category',compact('category'));
 	}
 	/**
-	 * Presenta un Candidato
+	 * [Presenta un Candidato]
 	*/
 	public function show($slug,$id)
 	{
