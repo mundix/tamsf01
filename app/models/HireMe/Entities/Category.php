@@ -3,7 +3,6 @@
 namespace HireMe\Entities;
 
 
-
 class Category extends \Eloquent {
 	protected $fillable = [];
 
@@ -16,6 +15,14 @@ class Category extends \Eloquent {
 	{
 		return $this->hasMany('HireMe\Entities\Candidate'); //Esta es la entidad HireMe\Entities\Candidate
 		//Esta entidad no existe, y ahy que pasarle el Namespace completo
+	}
+
+	/**
+	 * Vamos a Recrear una Paginacion
+	*/
+	public function getPaginateCandidatesAttribute()
+	{
+		return Candidate::where('category_id',$this->id)->paginate();
 	}
 
 }

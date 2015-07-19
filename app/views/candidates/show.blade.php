@@ -8,23 +8,23 @@
 
         <p>
             Categoría:
-            <a href="">
-                Backen Developer
+            <a href="{{ route('category',[$candidate->category->slug,$candidate->category->id]) }}">
+                {{ $candidate->category->name }}
             </a>
         </p>
 
-        <p>Tipo de trabajo: Job Type</p>
+        <p>Tipo de trabajo: {{ $candidate->job_type_title }}</p>
 
         <p>
             Website:
-            <a href="">
-                Web Site
+            <a href="{{ $candidate->website_url }}">
+                {{ $candidate->website_url }}
             </a>
         </p>
 
         <h4>Descripción</h4>
 
-        <p>Description</p>
+        <p>{{$candidate->description}}</p>
 
     </div> <!-- /container -->
 

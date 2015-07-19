@@ -2,12 +2,1377 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="911cdb2e-6fc1-460a-af47-fc376b25f17d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/Commons/Repositories/BaseRepo.php" afterPath="$PROJECT_DIR$/app/models/Commons/Repositories/BaseRepo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/font/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/abacus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/abacus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/accept.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/acces-denied-sign.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/acces-denied-sign.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/address-book-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/address-book-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/address-book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/address-book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/admin-user-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/admin-user-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/admin-user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/admin-user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/airplane.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/airplane.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/ajax-loading-input.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/ajax-loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/alarm-bell-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/alarm-bell-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/alarm-bell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/alarm-bell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/alarm-clock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/alarm-clock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/alarm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/alert-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/alert-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/alert.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/alert.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/anchor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/android.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/android.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/apartment-building.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/apartment-building.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_cascade.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_double.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_form.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_get.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_go.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_lightning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_osx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_osx_terminal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_put.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_side_boxes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_side_contract.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_side_expand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_side_list.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_side_tree.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_split.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_tile_horizontal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_tile_vertical.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_view_columns.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_view_detail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_view_gallery.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_view_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_view_list.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_view_tile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_view_xp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/application_view_xp_terminal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/archive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/archive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/arrow-down-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/arrow-down-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/arrow-left-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/arrow-left-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/arrow-right-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/arrow-right-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/arrow-up-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/arrow-up-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/arrow_branch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/arrow_divide.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/arrow_in.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/arrow_inout.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/arrow_join.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/arrow_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/arrow_merge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/arrow_out.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/arrow_redo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/arrow_refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/arrow_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/arrow_undo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/asterisk_orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/attach.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/attach_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/demo/avatar-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/demo/avatar-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/demo/avatar-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/demo/avatar-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/award_star_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/bag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/bag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/balloons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/balloons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/bandaid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/bandaid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/bandaid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/bar-graph-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/bar-graph-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/basket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/battery-almost-empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/battery-almost-empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/battery-almost-full.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/battery-almost-full.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/battery-empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/battery-empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/battery-full.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/battery-full.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/battery.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/battery.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/bell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/bended-arrow-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/bended-arrow-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/bended-arrow-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/bended-arrow-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/bended-arrow-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/bended-arrow-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/bended-arrow-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/bended-arrow-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/big-brush.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/big-brush.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/bin_closed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/blackberry.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/blackberry.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/blocks-images.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/blocks-images.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/blog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/blu-ray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/blu-ray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/blueprint.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/blueprint_horizontal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/bluetooth-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/bluetooth-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/bluetooth.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/bluetooth.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/bluetooth.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/bomb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/book-bookmark-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/book-bookmark-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/book-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/book-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/book_addresses.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/book_next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/book_open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/book_previous.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/bookmark-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/bookmark-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/bookmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/bookmark_book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/bookmark_book_open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/bookmark_document.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/bookmark_folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/books.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/books.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/books.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/box-incoming.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/box-incoming.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/box-outgoing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/box-outgoing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/box.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/brick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/bricks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/briefcase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/bug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/buildings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/bullet_add_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/bullet_add_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/bullet_key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/bulls-eye.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/bulls-eye.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/cake.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/calculator.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/calculator.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/calculator.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/calendar-today-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/calendar-today-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/calendar_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/calendar_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/camera-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/camera-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/cancel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/cart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/cash-register.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/cash-register.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/cassette.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/cassette.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/cat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/cat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/cd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/cd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/cd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/chair.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/chair.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/chart-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/chart-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/chart-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/chart-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/chart-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/chart-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/chart-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/chart-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/chart-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/chart-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/chart-7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/chart-7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/chart-8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/chart-8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/chart_bar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/chart_curve.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/chart_line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/chart_organisation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/chart_pie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/check-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/check-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/chemical.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/chemical.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/chrome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/chrome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/clipboard-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/clipboard-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/clipboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/clipboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/clipboard_paste_image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/clipboard_sign.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/clipboard_text.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/clock-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/clock-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/clock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/clock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/clock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/cloud-download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/cloud-download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/cloud-upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/cloud-upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/cloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/cloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/cog-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/cog-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/cog-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/cog-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/cog-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/cog-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/cog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/cog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/cog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/coins.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/color_swatch_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/color_swatch_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/comment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/companies.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/companies.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/compass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/compress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/computer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/computer_imac.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/computer_imac.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/connect.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/contrast.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/control_eject.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/control_end.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/control_equalizer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/control_fastforward.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/control_pause.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/control_play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/control_repeat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/control_rewind.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/control_start.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/control_stop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/control_wheel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/counter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/counter_count.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/counter_count_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/counter_reset.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/counter_stop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/coverflow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/coverflow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/create-write.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/create-write.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/cross-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/cross-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/cross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/cross_octagon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/cross_octagon_fram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/cross_shield.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/cross_shield_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/crosshair-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/crosshair-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/crown.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/crown_bronze.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/crown_silver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/css.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/cup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/cup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/cursor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/cut-scissors.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/cut-scissors.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/cut-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/cut-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/cut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/dashboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/database.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/databases.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/day-calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/day-calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/delicious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/delicious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/delivery.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/desktop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/desktop_empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/digg-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/digg-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/digg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/digg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/direction.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/disconnect.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/disk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/doc_access.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/doc_break.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/doc_convert.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/doc_excel_csv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/doc_excel_table.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/doc_film.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/doc_illustrator.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/doc_music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/doc_music_playlist.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/doc_offlice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/doc_page.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/doc_page_previous.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/doc_pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/doc_photoshop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/doc_resize.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/doc_resize_actual.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/doc_shred.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/doc_stand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/doc_table.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/doc_tag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/doc_text_image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/document.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/document.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/documents-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/documents-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/documents.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/documents.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/door.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/door_in.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/download-to-computer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/download-to-computer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/drawer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/dress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/dress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/dribbble-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/dribbble-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/dribbble.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/dribbble.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/drink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/drink_empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/drive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/drive_burn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/drive_cd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/drive_cd_empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/drive_delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/drive_disk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/drive_error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/drive_go.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/drive_link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/drive_network.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/drive_rename.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/dropbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/dropbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/drupal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/drupal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/dvd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/dvd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/dvd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/eject-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/eject-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/electricity-input.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/electricity-input.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/electricity-plug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/electricity-plug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/email.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/email_open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/email_open_image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/emoticon_evilgrin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/emoticon_grin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/emoticon_happy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/emoticon_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/emoticon_surprised.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/emoticon_tongue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/emoticon_unhappy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/emoticon_waii.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/emoticon_wink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/envelope.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/envelope_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/excel-document.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/excel-document.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/excel-documents-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/excel-documents-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/excel-documents.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/excel-documents.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/exclamation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/exclamation_octagon_fram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/exit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/exit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/expose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/expose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/expression-engine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/expression-engine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/eye.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/eyedropper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/eyedropper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/facebook-f-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/facebook-f-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/facebook-like.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/facebook-like.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/favorite-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/favorite-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/fax.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/fax.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/feed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/feed_ballon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/feed_document.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/female-contour.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/female-contour.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/female-symbol.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/female-symbol.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/female.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/file-cabinet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/file-cabinet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/film-camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/film-camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/film-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/film-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/film-strip-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/film-strip-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/film-strip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/film-strip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/film.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/films.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/find.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/finish-flag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/finish-flag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/firefox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/firefox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/flag-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/flag-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/flag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/flag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/flag_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/flatscreen-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/flatscreen-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/folder-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/folder-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/font.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/font/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/font/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/font/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/footprints.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/footprints.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/fountain-pen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/fountain-pen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/frames.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/frames.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/funnel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/globe-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/globe-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/globe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/globe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/go-back-from-full-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/go-back-from-full-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/go-back-from-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/go-back-from-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/go-full-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/go-full-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/google-buzz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/google-buzz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/google-maps.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/google-maps.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/graph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/graph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/grid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/grid_dot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/group.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/hammer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/hammer_screwdriver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/hand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/hand_point.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/hd-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/hd-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/hd-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/hd-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/hd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/hd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/headphones.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/headphones.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/heart-favorite-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/heart-favorite-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/heart_break.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/heart_empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/heart_half.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/heart_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/highlighter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/home-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/home-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/home-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/home-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/house.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/html.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/ice-cream-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/ice-cream-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/ice-cream.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/ice-cream.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/ichat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/ichat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/icos-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/icos-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/image(1).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/image(1).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/image-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/image-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/image_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/image_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/images-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/images-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/images.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/inbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/inbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/inbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/info-about.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/info-about.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/iphone-3g.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/iphone-3g.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/iphone-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/iphone-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/ipod-classic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/ipod-classic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/ipod-nano.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/ipod-nano.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/ipod.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/ipod_cast.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/joomla.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/joomla.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/joystick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/key-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/key-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/keyboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/lady's-purse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/lady's-purse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/lamp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/lamp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/laptop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/laptop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/lastfm-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/lastfm-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/layer_treansparent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/layers.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/layout.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/layout_header_footer_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/layout_header_footer_3_mix.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/layout_join.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/layout_join_vertical.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/layout_select.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/layout_select_content.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/layout_select_footer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/layout_select_sidebar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/layout_split.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/layout_split_vertical.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/lemonade-stand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/lemonade-stand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/lifebuoy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/light-bulb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/light-bulb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/lightbulb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/lightbulb_off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/lightning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/link-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/link-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/link_break.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/linux.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/linux.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/list-w_-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/list-w_-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/list-w_-images.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/list-w_-images.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/list.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/list.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/loading-bar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/loading-bar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/lock-locked-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/lock-locked-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/lock_unlock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/locked-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/locked-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/locked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/locked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/looking-glass-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/looking-glass-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/macos.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/macos.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/magic-mouse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/magic-mouse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/magnet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/magnifier.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/magnifier_zoom_in.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/magnifying-glass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/magnifying-glass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/male-contour.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/male-contour.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/male-symbol.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/male-symbol.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/male.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/medal_bronze_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/medal_gold_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/media_player_small_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/medical-case.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/medical-case.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/megaphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/megaphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/message-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/message-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/microphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/microphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/microphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/mighty-mouse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/mighty-mouse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/minus-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/minus-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/mobile-phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/mobile-phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/mobile_phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/mobypicture.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/mobypicture.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/money-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/money-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/money.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/money.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/money.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/money_dollar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/money_euro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/money_pound.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/money_yen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/monitor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/monitor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/monitor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/month-calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/month-calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/mouse-wires.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/mouse-wires.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/mouse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/multiple-users-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/multiple-users-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/music-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/music-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/music_beam.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/myspace-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/myspace-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/neutral.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/new-message-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/new-message-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/newspaper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/next-track-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/next-track-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/note-book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/note-book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/note.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/nuclear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/off-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/off-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/package.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/pacman-ghost.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/pacman-ghost.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/pacman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/pacman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_2_copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_code.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_excel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_lightning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_paste.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_save.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_cplusplus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_csharp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_cup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_database.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_dvd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_excel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_find.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_flash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_freehand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_gear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_get.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_paintbrush.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_paste.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_php.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_picture.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_powerpoint.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_put.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_ruby.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_stack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_swoosh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_text.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_text_width.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_tux.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_vector.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_visualstudio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_width.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_word.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_world.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_wrench.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/page_white_zip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/paint-brush.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/paint-brush.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/paintbrush.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/paintcan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/palette.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/pants.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/pants.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/paper_bag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/paperclip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/paperclip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/paste_plain.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/paste_word.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/paypal-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/paypal-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/paypal-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/paypal-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/paypal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/paypal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/pdf-document.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/pdf-document.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/pdf-documents-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/pdf-documents-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/pdf-documents.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/pdf-documents.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/pencil-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/pencil-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/phone-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/phone-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/phone-hook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/phone-hook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/photo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/photo_album.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/photos.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/piano.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/picture.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/piggy-bank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/piggy-bank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/pilcrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/pill.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/pin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/pipette.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/plaing_card.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/plane-suitcase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/plane-suitcase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/play-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/play-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/plixi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/plixi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/plug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/plugin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/plus-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/plus-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/polaroids-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/polaroids-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/post-card.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/post-card.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/power.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/power.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/powerpoint-document.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/powerpoint-document.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/powerpoint-documents-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/powerpoint-documents-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/powerpoint-documents.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/powerpoint-documents.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/presentation-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/presentation-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/presentation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/presentation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/previous-track-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/previous-track-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/price-tag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/price-tag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/price-tags.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/price-tags.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/printer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/printer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/printer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/projection_screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/projection_screen_present.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/radio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/radio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/rainbow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/record.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/record.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/recycle-symbol.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/recycle-symbol.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/refresh-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/refresh-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/refresh-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/refresh-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/refresh-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/refresh-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/repeat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/repeat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/report.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/robot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/robot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/rocket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/rosette.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/ruby.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/ruler-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/ruler-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/ruler.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/ruler.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/ruler_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/ruler_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/ruler_crop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/ruler_triangle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/running-man.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/running-man.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/safari.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/safari.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/safe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/save-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/save-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/scan-label-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/scan-label-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/script.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/sd-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/sd-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/sd-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/sd-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/sd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/sd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/selection.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/selection_select.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/server.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/settings-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/settings-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/settings-smal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/settings-smal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/settings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/settings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/shading.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/shape_aling_bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/shape_aling_center.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/shape_aling_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/shape_aling_middle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/shape_aling_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/shape_aling_top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/shape_flip_horizontal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/shape_flip_vertical.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/shape_group.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/shape_handles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/shape_move_back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/shape_move_backwards.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/shape_move_forwards.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/shape_move_front.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/shape_square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/shield.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/shopping-bag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/shopping-bag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/shopping-basket-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/shopping-basket-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/shopping-basket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/shopping-basket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/shopping-cart-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/shopping-cart-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/shopping-cart-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/shopping-cart-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/shopping-cart-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/shopping-cart-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/shopping-cart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/shopping-cart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/shuffle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/shuffle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/sidebar/sidebar-divider-dots.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/sidebar/sidebar-divider-dots@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/sign-post.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/sign-post.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/single-document-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/single-document-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/single-excel-document-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/single-excel-document-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/single-pdf-small-copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/single-pdf-small-copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/single-powerpoint-document-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/single-powerpoint-document-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/single-user-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/single-user-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/single-word-document-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/single-word-document-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/single-zip-file-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/single-zip-file-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/sitemap.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/skype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/skype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/sleeveless-shirt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/sleeveless-shirt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/slide.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/slides.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/slides_stack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/small-brush.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/small-brush.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/smiley_confuse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/smiley_cool.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/smiley_cry.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/smiley_fat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/smiley_mad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/smiley_red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/smiley_roll.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/smiley_slim.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/smiley_yell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/socket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/sockets.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/socks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/socks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/sort.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/sort_alphabet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/sort_date.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/sort_disable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/sort_number.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/sort_price.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/sort_quantity.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/sort_rating.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/sound.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/sound.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/sound.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/sound_note.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/speech-bubble-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/speech-bubble-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/speech-bubble.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/speech-bubble.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/speech-bubbles-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/speech-bubbles-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/speech-bubbles-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/speech-bubbles-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/speech-bubbles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/speech-bubbles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/spellcheck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/sport-shirt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/sport-shirt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/sport_8ball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/sport_basketball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/sport_football.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/sport_golf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/sport_raquet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/sport_shuttlecock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/sport_soccer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/sport_tennis.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/stamp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/star_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/star_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/status_online.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/stop-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/stop-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/stop-watch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/stop-watch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/stop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/strategy-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/strategy-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/strategy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/strategy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/stubleupon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/stubleupon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/style.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/suitcase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/suitcase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/sum.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/sum_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/sweater.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/sweater.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/switch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/t-shirt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/t-shirt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/tab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/table.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/table.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/table.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/tag-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/tag-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/tag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/tag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/tag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/tag_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/tags-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/tags-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/target.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/telephone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/television.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/television.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/television.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_align_center.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_align_justify.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_align_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_align_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_allcaps.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_bold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_columns.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_dropcaps.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_heading_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_horizontalrule.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_indent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_indent_remove.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_italic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_kerning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_letter_omega.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_letterspacing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_linespacing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_list_bullets.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_list_numbers.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_lowercase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_padding_bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_padding_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_padding_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_padding_top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_signature.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_smallcaps.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_strikethrough.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/text_subscript.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/textfield.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/textfield_rename.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/ticket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/timeline_marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/timer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/timer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/traffic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/transmit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/trashcan-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/trashcan-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/trashcan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/trashcan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/travel-suitcase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/travel-suitcase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/tree.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/tree.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/trolly.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/trolly.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/trophy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/trophy_bronze.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/trophy_silver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/truck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/truck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/tumbler.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/tumbler.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/twitter-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/twitter-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/twitter-t-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/twitter-t-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/ui_combo_box.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/ui_saccordion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/ui_slider_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/ui_slider_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/ui_tab_bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/ui_tab_content.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/ui_tab_disable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/ui_tab_side.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/ui_text_field_hidden.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/ui_text_field_password.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/umbrella.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/umbrella.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/umbrella.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/under-construction.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/under-construction.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/unfavorite-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/unfavorite-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/unlock-unlocked-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/unlock-unlocked-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/unlocked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/unlocked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/user-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/user-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/user-comment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/user-comment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/user_black_female.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/user_business.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/user_business_boss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/user_female.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/user_silhouette.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/user_thief.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/user_thief_baldie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/users-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/users-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/users.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/users.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/v-card-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/v-card-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/v-card-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/v-card-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/v-card.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/v-card.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/vault.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/vault.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/vcard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/vector.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/vimeo-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/vimeo-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/vimeo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/vimeo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/wait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/walking-man.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/walking-man.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/wall.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/wall_break.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/wall_brick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/wall_disable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/wand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/weather_clouds.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/weather_cloudy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/weather_lightning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/weather_rain.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/weather_snow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/weather_sun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/webcam.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/wifi-signal-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/wifi-signal-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/wifi-signal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/wifi-signal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/windows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/windows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/winner-podium.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/winner-podium.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/word-document.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/word-document.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/word-documents-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/word-documents-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/word-documents.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/word-documents.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/wordpress-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/wordpress-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/wordpress-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/wordpress-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/wordpress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/wordpress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/world.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/youtube-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/youtube-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/youtube.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/youtube.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/dark/zip-document-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is/white/zip-document-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/zip-file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/zip-file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/dark/zip-files.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/iconsweets/is2/white/zip-files.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/zone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/zone_money.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/zones.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/1license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/plugins/bootstrap-colorpicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/plugins/bootstrap-colorpicker.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/plugins/bootstrap-multiselect.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/plugins/bootstrap-multiselect.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/plugins/bootstrap-switch.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/plugins/bootstrap-switch.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/plugins/bootstrap-wizard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/plugins/bootstrap-wizard.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/plugins/bootstrap-wysihtml5.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/plugins/bootstrap-wysihtml5.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/general/breadcrumb.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/libs/breakpoints.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/general/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/demo/charts/chart_bars_horizontal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/demo/charts/chart_bars_vertical.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/demo/charts/chart_donut.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/demo/charts/chart_filled_blue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/demo/charts/chart_filled_green.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/demo/charts/chart_filled_red.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/demo/charts/chart_multiple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/demo/charts/chart_pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/demo/charts/chart_selection_zooming.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/demo/charts/chart_simple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/demo/charts/chart_updating.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/demo/charts/chart_widget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/demo/charts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/general/charts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/themes/dark.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/themes/dark_backup.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/plugins/datatables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/plugins/datatables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/plugins/datatables_bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/plugins/datatables_bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/plugins/daterangepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/plugins/daterangepicker.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/general/dropdowns.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/plugins/duallistbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/plugins/duallistbox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/error.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/error.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/fontawesome/font-awesome-ie7.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/fontawesome/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/fontawesome/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/font/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/demo/form_components.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/demo/form_validation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/demo/form_wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/general/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/plugins/fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/plugins/fullcalendar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/general/general_ui.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/demo/google_maps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/libs/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/invoice.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/general/invoice.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/libs/jquery-1.10.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/libs/jquery-1.10.2.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/plugins/jquery-ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/plugins/jquery-ui.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/themes/melon/tpls/layout.blalde.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/general/layout.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/libs/lodash.compat.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/login.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/main.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/general/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/demo/modals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/general/modals.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/general/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/plugins/nestable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/plugins/nestable.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/plugins/nprogress.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/plugins/nprogress.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/demo/pages_calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/plugins/pickadate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/plugins/pickadate.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/plugins.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/plugins.form-components.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/plugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/plugins_less.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/general/progressbars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/img/icons/led/src/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/responsive/responsive-1200px-min.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/responsive/responsive-767px-max.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/responsive/responsive-768px-979px.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/responsive/responsive-navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/responsive/responsive-utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/responsive.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/plugins/select2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/plugins/select2.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/plugins/select2.old.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/general/sidebar_navigation.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/general/statistics.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/general/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/general/tabs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/plugins/tagsinput.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/plugins/tagsinput.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/plugins/typeahead.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/plugins/typeahead.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/general/typography.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/demo/ui_buttons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/demo/ui_general.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/demo/ui_nestable_list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/js/demo/ui_sliders.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/css/plugins/uniform.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/plugins/uniform.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/lang/en/utils.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/general/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/melon/_less/general/widgets.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/HireMe/Entities/Candidate.php" afterPath="$PROJECT_DIR$/app/models/HireMe/Entities/Candidate.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/HireMe/Repositories/CandidateRepo.php" afterPath="$PROJECT_DIR$/app/models/HireMe/Repositories/CandidateRepo.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/CandidatesController.php" afterPath="$PROJECT_DIR$/app/controllers/CandidatesController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/HireMe/Repositories/CategoryRepo.php" afterPath="$PROJECT_DIR$/app/models/HireMe/Repositories/CategoryRepo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/blade.xml" afterPath="$PROJECT_DIR$/.idea/blade.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/HireMe/Entities/Category.php" afterPath="$PROJECT_DIR$/app/models/HireMe/Entities/Category.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/candidates/category.blade.php" afterPath="$PROJECT_DIR$/app/views/candidates/category.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/routes.php" afterPath="$PROJECT_DIR$/app/routes.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/candidates/show.blade.php" afterPath="$PROJECT_DIR$/app/views/candidates/show.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="amsisinvoice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,23 +1394,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CandidatesController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/CandidatesController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.67742">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="30" selection-end-column="5" />
-              <folding>
-                <element signature="e#7#44#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="show.blade.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views/candidates/show.blade.php">
+      <file leaf-file-name="layout.blalde.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/themes/melon/tpls/layout.blalde.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="11" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -91,10 +1444,6 @@
         <option value="$PROJECT_DIR$/app/database/migrations/2015_07_11_190834_create_invoices_table.php" />
         <option value="$PROJECT_DIR$/app/database/migrations/2015_07_11_191055_create_invoices_payments_table.php" />
         <option value="$PROJECT_DIR$/app/database/migrations/2015_07_11_191019_create_invoices_details_table.php" />
-        <option value="$PROJECT_DIR$/app/models/HireMe/Entities/Candidate.php" />
-        <option value="$PROJECT_DIR$/app/views/candidates/category.blade.php" />
-        <option value="$PROJECT_DIR$/app/models/HireMe/Entities/Category.php" />
-        <option value="$PROJECT_DIR$/app/controllers/HomeController.php" />
         <option value="$PROJECT_DIR$/app/models/Inventory/Entities/ProductLog.php" />
         <option value="$PROJECT_DIR$/app/models/Inventory/Entities/ProductCategory.php" />
         <option value="$PROJECT_DIR$/app/models/Inventory/Entities/Product.php" />
@@ -102,13 +1451,18 @@
         <option value="$PROJECT_DIR$/app/controllers/OrdersController.php" />
         <option value="$PROJECT_DIR$/app/controllers/ProductsController.php" />
         <option value="$PROJECT_DIR$/app/config/app.php" />
-        <option value="$PROJECT_DIR$/app/routes.php" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/app/models/Commons/Repositories/BaseRepo.php" />
         <option value="$PROJECT_DIR$/app/models/HireMe/Repositories/CategoryRepo.php" />
-        <option value="$PROJECT_DIR$/app/models/HireMe/Repositories/CandidateRepo.php" />
         <option value="$PROJECT_DIR$/app/controllers/CandidatesController.php" />
+        <option value="$PROJECT_DIR$/app/routes.php" />
+        <option value="$PROJECT_DIR$/app/lang/en/utils.php" />
         <option value="$PROJECT_DIR$/app/views/candidates/show.blade.php" />
+        <option value="$PROJECT_DIR$/app/models/HireMe/Entities/Category.php" />
+        <option value="$PROJECT_DIR$/app/views/candidates/category.blade.php" />
+        <option value="$PROJECT_DIR$/app/models/HireMe/Entities/Candidate.php" />
+        <option value="$PROJECT_DIR$/app/controllers/HomeController.php" />
+        <option value="$PROJECT_DIR$/app/models/HireMe/Repositories/CandidateRepo.php" />
       </list>
     </option>
   </component>
@@ -124,6 +1478,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="x" value="13" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="873" />
@@ -181,6 +1536,78 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amsisinvoice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amsisinvoice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="melon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amsisinvoice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amsisinvoice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="melon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amsisinvoice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amsisinvoice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amsisinvoice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amsisinvoice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -221,7 +1648,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="candidates" />
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="melon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tpls" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -239,7 +1674,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="melon" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -255,6 +1698,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/melon" />
       <recent name="$PROJECT_DIR$/app/controllers" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -307,7 +1751,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <frame x="13" y="23" width="1440" height="873" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -315,7 +1759,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2160229" sideWeight="0.5134443" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2160229" sideWeight="0.4865557" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2160229" sideWeight="0.4865557" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -347,27 +1791,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/database/migrations/2015_07_10_100425_create_orders_credits_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/database/migrations/2015_07_10_100501_create_products_logs_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2496454">
-          <caret line="51" column="29" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/database/seeds/DatabaseSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21843971">
@@ -565,13 +1988,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/candidates/category.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14634146">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/database/migrations/2015_07_05_152825_create_categories_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.048780486">
@@ -604,34 +2020,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/HireMe/Entities/Category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42541435">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="18" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/HireMe/Entities/Candidate.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24309392">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/Inventory/Entities/Product.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12625538">
           <caret line="4" column="6" selection-start-line="4" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03038674">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -668,14 +2060,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.5161295">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.44459835">
@@ -692,16 +2076,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/HireMe/Repositories/CandidateRepo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2437673">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <element signature="e#39#73#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/HireMe/Repositories/CategoryRepo.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4570637">
@@ -712,20 +2086,94 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.32258">
+          <caret line="32" column="87" selection-start-line="26" selection-start-column="0" selection-end-line="32" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/CandidatesController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.67742">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="30" selection-end-column="5" />
+        <state vertical-scroll-proportion="-19.225807">
+          <caret line="28" column="41" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="41" />
           <folding>
             <element signature="e#7#44#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/candidates/show.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/lang/en/utils.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="11" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/candidates/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.935484">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/HireMe/Entities/Candidate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1266187">
+          <caret line="4" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/HireMe/Entities/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39856115">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/candidates/category.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73130196">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/melon/_less/themes/dark.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09496403">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/HireMe/Repositories/CandidateRepo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6094183">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#39#73#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30470914">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/themes/melon/tpls/layout.blalde.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

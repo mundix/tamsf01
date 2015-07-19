@@ -27,7 +27,7 @@ class CandidatesController extends BaseController
 	public function show($slug,$id)
 	{
 		$candidate = $this->candidateRepo->find($id);
-		dd($candidate);
+		return View::make('candidates/show',compact('candidate'));
 	}
 
 }

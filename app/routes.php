@@ -30,4 +30,4 @@ Route::get('candidates/{slug}/{id}',['as' => 'category','uses' => 'CandidatesCon
  * la ruta para un candidate seria
  * edmundo-pichardo/1
 */
-Route::get('{slug}/{id}',['as' => 'category', 'uses' => 'CandidatesController@show']);
+Route::get('{slug}/{id}',['as' => 'candidate', 'uses' => 'CandidatesController@show']);

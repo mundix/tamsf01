@@ -15,4 +15,9 @@ class CandidateRepo extends BaseRepo
     {
         return new Candidate;
     }
+
+    public function findLastest()
+    {
+
+    }
 }
