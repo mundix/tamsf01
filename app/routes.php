@@ -33,3 +33,9 @@ Route::get('candidates/{slug}/{id}',['as' => 'category','uses' => 'CandidatesCon
 Route::get('{slug}/{id}',['as' => 'candidate', 'uses' => 'CandidatesController@show']);
 
 Route::get('melons',['as'=>'product','uses'=> 'ProductsController@melon']);
+
+/**
+ * Llamadas para el Registro
+*/
+Route::get('sign-up',['as'=>'sign_up','uses'=> 'UsersController@signUp']);
+Route::post('sign-up',['as'=>'register','uses'=> 'UsersController@register']);
