@@ -13,4 +13,16 @@ class CategoryRepo extends BaseRepo
     {
         return new Category;
     }
+
+    public function getCandidatesbyCategoryId($id = null)
+    {
+        if(!is_null($id))
+        {
+            return Category::with([
+                'candidates' => function($q){
+                    $q->orderBy('created_at','DESC');
+                }
+                ,'candidates.user'])->where('id',$id)->get();
+        }
+    }
 }
