@@ -1,15 +1,6 @@
 <?php
 
-/*
-|--------------------------------------------------------------------------
-| Application Routes
-|--------------------------------------------------------------------------
-|
-| Here is where you can register all of the routes for an application.
-| It's a breeze. Simply tell Laravel the URIs it should respond to
-| and give it the Closure to execute when that URI is requested.
-|
-*/
+
 
 Route::get('/',['as' => 'home','uses' => 'HomeController@index']);
 
@@ -39,3 +30,22 @@ Route::get('melons',['as'=>'product','uses'=> 'ProductsController@melon']);
 */
 Route::get('sign-up',['as'=>'sign_up','uses'=> 'UsersController@signUp']);
 Route::post('sign-up',['as'=>'register','uses'=> 'UsersController@register']);
+
+/**
+ * Rutas Relacionadas al Producto
+*/
+Route::get('products',['as'=>'product','uses'=>'ProductsController@index']);
+
+Route::get('products.add',['as'=>'product_add','uses'=>'ProductsController@add']);
+Route::post('products.add',['as'=>'product_save','uses'=>'ProductsController@save']);
+
+Route::get('products.edit/{slug}/{id}',['as'=>'product_edit','uses'=>'ProductsController@edit']);
+Route::get('products.show/{slug}/{id}',['as'=>'product_show','uses'=>'ProductsController@show']);
+
+/**
+ * Rutas de Las categorias de Productos
+*/
+Route::get('products.categories',['as'=>'product_category','uses'=>'ProductsCategoriesController@index']);
+Route::get('products.categories.add',['as'=>'product_category_add','uses'=>'ProductsCategoriesController@add']);
+Route::get('products.categories.edit/{slug}/{id}',['as'=>'product_category_edit','uses'=>'ProductsCategoriesController@edit']);
+Route::get('products.categories.show',['as'=>'product_category_show','uses'=>'ProductsCategoriesController@show']);

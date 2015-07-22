@@ -1,9 +1,5 @@
 <?php
 
-/**
- * Controller de Usuarios
-*/
-
 use HireMe\Entities\User;
 
 class UsersController extends BaseController

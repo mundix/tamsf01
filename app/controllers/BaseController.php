@@ -1,7 +1,7 @@
 <?php
 
 class BaseController extends Controller {
-
+	protected $theme = 'melon';
 	/**
 	 * Setup the layout used by the controller.
 	 *

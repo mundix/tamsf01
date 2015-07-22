@@ -1,10 +1,8 @@
 <?php
 
-// Composer: "fzaninotto/faker": "v1.3.0"
 use HireMe\Entities\User;
 use HireMe\Entities\Candidate;
 use Faker\Factory as Faker;
-
 
 class CandidateTableSeeder extends Seeder {
 
