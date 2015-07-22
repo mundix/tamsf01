@@ -5,6 +5,7 @@ namespace HireMe\Repositories;
 use Commons\Repositories\BaseRepo;
 use HireMe\Entities\Candidate;
 use HireMe\Entities\Category;
+use HireMe\Entities\User;
 
 class CandidateRepo extends BaseRepo
 {
@@ -25,5 +26,15 @@ class CandidateRepo extends BaseRepo
                 $q->orderBy('created_at','DESC');
             },
             'candidates.user'])->get();
+    }
+
+    /**
+     * Function para devolder un nuevo Candidato.
+    */
+    public function newCandidate()
+    {
+        $user = new User();
+        $user->type = 'candidate';
+        return $user;
     }
 }

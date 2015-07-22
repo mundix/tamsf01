@@ -1,9 +1,18 @@
 <?php
 
 use HireMe\Entities\User;
+use HireMe\Managers\RegisterManager;
+use HireMe\Repositories\CandidateRepo;
 
 class UsersController extends BaseController
 {
+    protected $candidateRepo;
+
+    public function __construct(CandidateRepo $candidateRepo)
+    {
+        $this->candidateRepo = $candidateRepo;
+    }
+
     public function signUp()
     {
         return View::make('users/sign-up');
@@ -11,30 +20,16 @@ class UsersController extends BaseController
 
     public function register()
     {
-//        echo "<pre>";
-//        dd(Input::all());
-//        $data = Input::all();
-        $data = Input::only(['full_name','email','password','password_confirmation']);
-        $rules = [
-            'full_name' => 'required',
-            'email'     =>'required|email|unique:users,email',
-            'password'  => 'required|confirmed', //busca que existe un campo con el prefijo confirmation
-            'password_confirmation' => 'required' //Esto esta demas por que es confirmado.
-            ];
+        $user = $this->candidateRepo->newCandidate();
+        $manager = new RegisterManager($user,Input::all());
 
-        $validation = \Validator::make($data,$rules);
-        if($validation->passes())
+
+        if($manager->save())
         {
-//            $data['type'] = 'candidate';
-            $user = new User($data);
-            $user->type = 'candidate'; //Asignamos el tipo d esta forma y se hace con el
-            //metodo save
-//            User::create($data);
-            $user->save();
             return Redirect::route('home');
         }
 
-        return Redirect::back()->withInput()->withErrors($validation->messages());
+        return Redirect::back()->withInput()->withErrors($manager->getErrors());
         //Esto me devuelve con todo los datos y los errores de las validaciones.
 
     }
