@@ -1,6 +1,6 @@
 <?php
 
-namespace HireMe\Managers;
+namespace Commons\Managers;
 
 /**
  * BaseManager No se usa directamente, al igual BaseRepo

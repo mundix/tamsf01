@@ -1,6 +1,7 @@
 <?php
 
 namespace HireMe\Managers;
+use Commons\Managers\BaseManager;
 
 //Hay qye definir el metodo getrules
 class RegisterManager extends  BaseManager

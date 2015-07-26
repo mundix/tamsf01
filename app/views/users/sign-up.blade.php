@@ -9,8 +9,10 @@
 
             {{ Form::open(['route'=>'register','method'=>'POST','role'=>'form']) }}
 
+            {{ $fieldBuilder->input('text','full_name') }}
+
             <div class="form-group">
-                {{ Form::label('full_name','Nombre Completo')}}
+                {{ Form::label('full_name','Nombre completo')}}
                 {{ Form::text('full_name',null,['class' =>'form-control'])}}
                 {{ $errors->first('full_name','<p class="error_message">:message</p>') }}
             </div>

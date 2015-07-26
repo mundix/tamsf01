@@ -1,6 +1,5 @@
 <?php
 
-use HireMe\Entities\User;
 use HireMe\Managers\RegisterManager;
 use HireMe\Repositories\CandidateRepo;
 
@@ -15,14 +14,14 @@ class UsersController extends BaseController
 
     public function signUp()
     {
-        return View::make('users/sign-up');
+        $fieldBuilder = new \Commons\Components\FieldBuilder();
+        return View::make('users/sign-up',compact('fieldBuilder'));
     }
 
     public function register()
     {
         $user = $this->candidateRepo->newCandidate();
         $manager = new RegisterManager($user,Input::all());
-
 
         if($manager->save())
         {
