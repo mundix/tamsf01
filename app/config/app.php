@@ -119,8 +119,13 @@ return array(
 		'Illuminate\Validation\ValidationServiceProvider',
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
+
+		//Vendor
         'Way\Generators\GeneratorsServiceProvider',
 		'Barryvdh\Debugbar\ServiceProvider',
+
+		//Custom
+		'Commons\Components\FieldServiceProvider',
 //		'Cartalyst\Sentry\SentryServiceProvider',
 
 	),
@@ -189,6 +194,10 @@ return array(
 		'Validator'       => 'Illuminate\Support\Facades\Validator',
 		'View'            => 'Illuminate\Support\Facades\View',
 //		'Sentry' => 'Cartalyst\Sentry\Facades\Laravel\Sentry',
+
+		//Custom
+		'Field'				=> 'Commons\Components\Field',
+
 
 	),
 

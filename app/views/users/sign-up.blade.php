@@ -9,28 +9,31 @@
 
             {{ Form::open(['route'=>'register','method'=>'POST','role'=>'form']) }}
 
-            {{ $fieldBuilder->input('text','full_name') }}
+{{--            {{ App::make('field')->input('text','full_name') }}--}}
+            {{ Field::input('text','full_name') }}
+            {{ Field::input('email','email') }}
+            {{ Field::input('password','password') }}
+            {{ Field::input('password_confirmation','password') }}
+            {{--{{ $fieldBuilder->input('email','email') }}--}}
+            {{--{{ $fieldBuilder->input('password','password') }}--}}
+            {{--{{ $fieldBuilder->input('password_confirmation','password_confirmation') }}--}}
 
-            <div class="form-group">
-                {{ Form::label('full_name','Nombre completo')}}
-                {{ Form::text('full_name',null,['class' =>'form-control'])}}
-                {{ $errors->first('full_name','<p class="error_message">:message</p>') }}
-            </div>
-            <div class="form-group">
-                {{ Form::label('email','Correo')}}
-                {{ Form::email('email',null,['class' =>'form-control'])}}
-                {{ $errors->first('email','<p class="error_message">:message</p>') }}
-            </div>
-            <div class="form-group">
-                {{ Form::label('password','Clave')}}
-                {{ Form::password('password',['class' =>'form-control'])}}
-                {{ $errors->first('password','<p class="error_message">:message</p>') }}
-            </div>
-            <div class="form-group">
-                {{ Form::label('password_confirmation','Repite tu Clave')}}
-                {{ Form::password('password_confirmation',['class' =>'form-control'])}}
-                {{ $errors->first('password_confirmation','<p class="error_message">:message</p>') }}
-            </div>
+
+            {{--<div class="form-group">--}}
+                {{--{{ Form::label('email','Correo')}}--}}
+                {{--{{ Form::email('email',null,['class' =>'form-control'])}}--}}
+                {{--{{ $errors->first('email','<p class="error_message">:message</p>') }}--}}
+            {{--</div>--}}
+            {{--<div class="form-group">--}}
+                {{--{{ Form::label('password','Clave')}}--}}
+                {{--{{ Form::password('password',['class' =>'form-control'])}}--}}
+                {{--{{ $errors->first('password','<p class="error_message">:message</p>') }}--}}
+            {{--</div>--}}
+            {{--<div class="form-group">--}}
+                {{--{{ Form::label('password_confirmation','Repite tu Clave')}}--}}
+                {{--{{ Form::password('password_confirmation',['class' =>'form-control'])}}--}}
+                {{--{{ $errors->first('password_confirmation','<p class="error_message">:message</p>') }}--}}
+            {{--</div>--}}
             <p>
                 <input type="submit" value="Register" class="btn btn-success">
             </p>
