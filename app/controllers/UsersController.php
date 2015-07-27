@@ -32,4 +32,25 @@ class UsersController extends BaseController
 
     }
 
+    public function account()
+    {
+        $user = Auth::user();
+        return View::make('users/account',compact('user')); //Tambien se pued hacer con with->('user')
+    }
+
+    public function updateAccount()
+    {
+
+    }
+
+    public function profile()
+    {
+
+    }
+
+    public function updateProfile()
+    {
+
+    }
+
 }

@@ -32,6 +32,23 @@ Route::get('sign-up',['as'=>'sign_up','uses'=> 'UsersController@signUp']);
 Route::post('sign-up',['as'=>'register','uses'=> 'UsersController@register']);
 
 /**
+ * Login, viene del formulario de login de layout.blade.php
+*/
+Route::post('login',['as' => 'login', 'uses' => 'AuthController@login']);
+Route::get('logout',['as' => 'logout', 'uses' => 'AuthController@logout']);
+
+/**
+ * Formularios Account, informacion de la cuetna
+*/
+
+Route::get('account',['as' => 'account','uses' => 'UserController@account']);
+Route::put('account',['as' => 'update_account','uses' => 'UserController@updateAccount']);
+
+Route::get('profile',['as' => 'profile','uses' => 'UserController@profile']);
+Route::put('profile',['as' => 'update_progile','uses' => 'UserController@updateProfile']);
+
+
+/**
  * Rutas Relacionadas al Producto
 */
 Route::get('products',['as'=>'product','uses'=>'ProductsController@index']);
