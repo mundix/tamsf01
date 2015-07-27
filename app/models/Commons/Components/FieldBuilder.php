@@ -2,6 +2,11 @@
 
 namespace Commons\Components;
 
+use Illuminate\Html\FormBuilder as Form;
+use Illuminate\View\Environment as View;
+use Illuminate\Session\Store as Session;
+
+
 class FieldBuilder
 {
 
@@ -9,6 +14,17 @@ class FieldBuilder
         'default'    =>  'form-control',
         'checkbox'   =>  '',
     ];
+
+    protected $form;
+    protected $view;
+    protected $session;
+
+    public function __construct(Form $form,View $view,Session $session)
+    {
+        $this->form = $form;
+        $this->view = $view;
+        $this->session = $session;
+    }
 
     public function getDefaultClass($type)
     {
@@ -50,22 +66,22 @@ class FieldBuilder
         switch($type)
         {
             case 'select':
-                return \Form::select($name,$options,$value,$attributes);
+                return $this->form->select($name,$options,$value,$attributes);
             case 'password':
-                return \Form::password($name,$attributes);
+                return $this->form->password($name,$attributes);
             case 'checkbox':
-                return \Form::checkbox($name);
+                return $this->form->checkbox($name);
             default:
-                return \Form::input($type,$name,$value,$attributes);
+                return $this->form->input($type,$name,$value,$attributes);
         }
     }
 
     public function buildError($name)
     {
         $error = null;
-        if(\Session::has('errors'))
+        if($this->session->has('errors'))
         {
-            $errors = \Session::get('errors');
+            $errors = $this->session->get('errors');
             if($errors->has($name))
             {
                 $error = $errors->first($name);
@@ -91,7 +107,7 @@ class FieldBuilder
         $error = $this->buildError($name);
         $template = $this->buildTemplate($type);
 
-        return \View::make($template,compact('name','label','control','error'));
+        return $this->view->make($template,compact('name','label','control','error'));
     }
 
     public function password($name,$attributes = array())

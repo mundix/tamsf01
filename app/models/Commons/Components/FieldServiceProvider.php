@@ -9,8 +9,9 @@ class FieldServiceProvider extends ServiceProvider
 {
     public function register()
     {
-        $this->app['field'] = $this->app->share(function($app){
-            $fielBuilder = new FieldBuilder();
+        $this->app['field'] = $this->app->share(function($app)
+        {
+            $fielBuilder = new FieldBuilder( $app['form'],$app['view'],$app['session.store']);
             return $fielBuilder;
         });
     }
