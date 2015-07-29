@@ -3,7 +3,8 @@
 namespace Inventory\Entities;
 
 class ProductCategory extends \Eloquent {
-	protected $fillable = [];
+	protected $fillable = ['name','description','available'];
+	protected $table = "products_categories";
 
 	/**
 	 * Las Categorias de Productos tienen muchos productos.
@@ -12,5 +13,4 @@ class ProductCategory extends \Eloquent {
 	{
 		$this->hasMany('Inventory\Entities\Product');
 	}
-
 }

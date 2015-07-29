@@ -5,14 +5,13 @@ class AuthController extends BaseController
 
     public function login()
     {
-//        $data = Input::all();
         $data = Input::only('email','password','remember');
 
         $credentials = ['email' => $data['email'],'password' => $data['password']];
 
         if(Auth::attempt($credentials))
         {
-            return Redirect::back();
+            return Redirect::route('home');
         }
         return Redirect::back()->with('login_error',1);
 
@@ -21,7 +20,7 @@ class AuthController extends BaseController
     public function logout()
     {
         Auth::logout();
-        return Redirect::route('home');
+        return Redirect::route('login');
     }
 
 }

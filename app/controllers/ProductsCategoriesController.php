@@ -1,17 +1,46 @@
 <?php
 
-class ProductsCategoriesController extends BaseController {
+use Inventory\Repositories\ProductRepo;
+use Inventory\Repositories\ProductCategoryRepo;
+use Inventory\Managers\ProductCategoryManager;
 
+class ProductsCategoriesController extends BaseController
+{
+
+	protected $productCategoryRepo;
+	protected $productRepo;
+
+	public function __construct(ProductRepo $productRepo,ProductCategoryRepo $productCategoryRepo)
+	{
+		$this->productRepo = $productRepo;
+		$this->productCategoryRepo =  $productCategoryRepo;
+	}
+	/**
+	 * Listado de Categorias
+	*/
 	public function index()
 	{
-//		return View::make("themes/{$this->theme}/pages/inventory/products/show");
-//		return View::make("themes/{$this->theme}/tpls/layout");
+		$categories = $this->productCategoryRepo->getList();
+		return View::make("themes/{$this->theme}/pages/inventory/productscategories/show",compact('categories'));
 	}
+	/**
+	 * Formulario de insertar nueva categoria
+	*/
 	public function add()
 	{
-//		return $this->theme;
-//		return View::make("themes/{$this->theme}/pages/inventory/products/show");
-//		return "Aqui esta el formulario de agregar Productos";
+		$categories = $this->productCategoryRepo->getList();
+		return View::make("themes/{$this->theme}/forms/inventory/productscategories/add",compact('categories'));
+	}
+
+	public function save()
+	{
+//		dd(Input::all());
+
+		$entity = $this->productCategoryRepo->newCategory();
+		$manager = new ProductCategoryManager($entity,Input::all());
+		$manager->save();
+		return Redirect::route('home');
+
 	}
 	public function edit()
 	{

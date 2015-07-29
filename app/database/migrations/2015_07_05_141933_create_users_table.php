@@ -19,7 +19,7 @@ class CreateUsersTable extends Migration {
             $table->string("full_name");
             $table->string("email");
             $table->string("password");
-            $table->enum("type",["admin","candidate"]);
+            $table->enum("type",["admin","candidate","client","provider","employer"]);
             $table->string("remember_token")->nullable(); //Function de Remember Me ,
 
 			$table->timestamps();

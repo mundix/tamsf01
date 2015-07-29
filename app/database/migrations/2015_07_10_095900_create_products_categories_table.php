@@ -20,7 +20,7 @@ class CreateProductsCategoriesTable extends Migration {
 			$table->string("slug");
 			$table->integer('parent_d')->unsigned();//Relacion de Categoria con candidatos
 			$table->boolean("available");
-			$table->foreign("parent_d")->references("id")->on("products_categories");
+//			$table->foreign("parent_d")->references("id")->on("products_categories");
 			$table->timestamps();
 		});
 	}

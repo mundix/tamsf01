@@ -1,6 +1,19 @@
 <?php
 
-class ProductsController extends BaseController {
+use Inventory\Repositories\ProductCategoryRepo;
+use Inventory\Repositories\ProductRepo;
+
+class ProductsController extends BaseController
+{
+
+	protected $productRepo;
+	protected $productCategoryRepo;
+
+	public function __construct(ProductRepo $productRepo,ProductCategoryRepo $productCategoryRepo)
+	{
+		$this->productRepo          = $productRepo;
+		$this->productCategoryRepo  = $productCategoryRepo;
+	}
 
 	public function category($slug,$id)
 	{
@@ -10,10 +23,15 @@ class ProductsController extends BaseController {
 	{
 		return View::make('themes/melon/tpls/layout');
 	}
+
+	/**
+	 * Formulario de Agregar Producto
+	*/
 	public function add()
 	{
-		return View::make("themes/{$this->theme}/forms/inventory/products/add");
-//		return "Aqui esta el formulario de agregar Productos";
+		$categories = $this->productCategoryRepo->getList();
+
+		return View::make("themes/{$this->theme}/forms/inventory/products/add",compact('categories'));
 	}
 	public function save()
 	{

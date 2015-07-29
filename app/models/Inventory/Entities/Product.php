@@ -2,14 +2,24 @@
 
 namespace Inventory\Entities;
 
-class Product extends \Eloquent {
-	protected $fillable = [];
+class Product extends \Eloquent
+{
+	protected $fillable = ['name','description',''];
+	protected $perPage = 20;
 
-	/**
-	 * El producto tiene una relacion uno a uno de usuario y producto
-	*/
 	public function user()
 	{
-//		$this->hasOne();
+		return $this->belongsTo('HireMe\Entities\User');
 	}
+
+	/**
+	 * Relacion de Producto con categoria.
+	*/
+	public function category()
+	{
+		return $this->belongsTo('Inventory\Entities\ProductCategory');
+	}
+
+
+
 }

@@ -18,5 +18,6 @@ class HomeController extends BaseController
 		$latest_candidates = $this->candidateRepo->findLastest();
 
 		return View::make('home',compact('latest_candidates'));
+//		return View::make('themes/melon/tpls/login');
 	}
 }

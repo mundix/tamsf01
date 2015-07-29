@@ -35,8 +35,6 @@ abstract class BaseManager
         }
     }
 
-
-
     public function save()
     {
         $this->isValid();
@@ -49,7 +47,6 @@ abstract class BaseManager
 
     public function prepareData($data)
     {
-
         return $data;
     }
 
