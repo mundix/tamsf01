@@ -10,7 +10,6 @@ abstract class BaseManager
 
     protected $entity;
     protected $data;
-    protected $errors;
 
     public function __construct($entity,$data)
     {
@@ -30,29 +29,28 @@ abstract class BaseManager
 
         $validation = \Validator::make($this->data,$rules);
 
-        $isValid = $validation->passes();
-        $this->errors = $validation->messages();
+        if($validation->fails())
+        {
+            throw new ValidationException('Validation Failed',$validation->messages());
+        }
+    }
 
-        return $isValid; //Boolean
-    }
-    /**
-     * Ademas de que valide los datos pueda guardarlos tambien
-    */
-    public function getErrors()
-    {
-        return $this->errors;
-    }
 
 
     public function save()
     {
-        if(!$this->isValid())
-            return FALSE;
+        $this->isValid();
 
-        $this->entity->fill($this->data);//Asigna todos los datos, function fill de eloquent y que salve
+        $this->entity->fill($this->prepareData($this->data));//Asigna todos los datos, function fill de eloquent y que salve
         $this->entity->save();
 
         return TRUE;
+    }
+
+    public function prepareData($data)
+    {
+
+        return $data;
     }
 
 }

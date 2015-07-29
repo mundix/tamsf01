@@ -25,4 +25,10 @@ class CategoryRepo extends BaseRepo
                 ,'candidates.user'])->where('id',$id)->get();
         }
     }
+
+    public function getList()
+    {
+        return Category::lists('name','id');
+    }
+
 }

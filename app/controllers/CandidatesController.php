@@ -17,12 +17,12 @@ class CandidatesController extends BaseController
 	public function category($slug,$id)
 	{
 		//Se va remover Category si no que se debe usar el Repo de Category
-//		$category = $this->categoryRepo->find($id);
-		$categories = $this->categoryRepo->getCandidatesbyCategoryId($id);
-		$category = $categories[0];
-//		echo "<pre>";
-//		print_r($category);
-//		echo $category->name;
+		$category = $this->categoryRepo->find($id);
+
+		$this->notFoundUnless($category);
+
+//		$categories = $this->categoryRepo->getCandidatesbyCategoryId($id);
+//		$category = $categories[0];
 		//Ahora pertenece a namespace
 		return View::make('candidates/category',compact('category'));
 	}

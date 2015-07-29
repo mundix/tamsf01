@@ -1,0 +1,35 @@
+<?php
+
+namespace HireMe\Managers;
+use Commons\Managers\BaseManager;
+
+//Hay qye definir el metodo getrules
+class ProfileManager extends  BaseManager
+{
+    //Aqui se van a poner las reglasdel controller, de usuarios
+    public function getRules()
+    {
+        $rules = [
+            'website_url'   => 'required|url',
+            'description'   => 'required|max:1000',
+            'job_type'      => 'required|in:full,partial,freelance',
+            'category_id'   => 'required|exists:categories,id',
+            'available'     => 'in:1,0'
+        ];
+        return $rules;
+    }
+
+    public function prepareData($data)
+    {
+        if(!isset($data['available']))
+        {
+            $data['available'] = 0;
+        }
+
+//        $data['slug'] = \Str::slug($this->entity->user->full_name);
+        $this->entity->slug = \Str::slug($this->entity->user->full_name);
+
+        return $data;
+    }
+
+}

@@ -25,28 +25,50 @@ Route::get('{slug}/{id}',['as' => 'candidate', 'uses' => 'CandidatesController@s
 
 Route::get('melons',['as'=>'product','uses'=> 'ProductsController@melon']);
 
-/**
- * Llamadas para el Registro
-*/
-Route::get('sign-up',['as'=>'sign_up','uses'=> 'UsersController@signUp']);
-Route::post('sign-up',['as'=>'register','uses'=> 'UsersController@register']);
+Route::group(['before'=>'guest'],function(){
+    /**
+     * Llamadas para el Registro
+     */
+    Route::get('sign-up',['as'=>'sign_up','uses'=> 'UsersController@signUp']);
+    Route::post('sign-up',['as'=>'register','uses'=> 'UsersController@register']);
+
+    /**
+     * Login, viene del formulario de login de layout.blade.php
+     */
+    Route::post('login',['as' => 'login', 'uses' => 'AuthController@login']);
+});
+
 
 /**
- * Login, viene del formulario de login de layout.blade.php
+ * Group de Routas por Filtro
 */
-Route::post('login',['as' => 'login', 'uses' => 'AuthController@login']);
-Route::get('logout',['as' => 'logout', 'uses' => 'AuthController@logout']);
+Route::group(['before' => 'auth'], function()
+{
+    Route::get('logout',['as' => 'logout', 'uses' => 'AuthController@logout']);
 
-/**
- * Formularios Account, informacion de la cuetna
-*/
+    /**
+     * Formularios Account, informacion de la cuetna
+     */
 
-Route::get('account',['as' => 'account','uses' => 'UserController@account']);
-Route::put('account',['as' => 'update_account','uses' => 'UserController@updateAccount']);
+    Route::get('account',['as' => 'account','uses' => 'UsersController@account']);
+    Route::put('account',['as' => 'update_account','uses' => 'UsersController@updateAccount']);
 
-Route::get('profile',['as' => 'profile','uses' => 'UserController@profile']);
-Route::put('profile',['as' => 'update_progile','uses' => 'UserController@updateProfile']);
+    Route::get('profile',['as' => 'profile','uses' => 'UsersController@profile']);
+    Route::put('profile',['as' => 'update_profile','uses' => 'UsersController@updateProfile']);
 
+    Route::group(['before' => 'is_admin'],function(){
+        /**
+         * Admin Routes
+         */
+
+        Route::get('admin/candidate/{id}',['as' => 'admin_candidate_edit', function($id){
+            return 'Editando un candidato:'.$id;
+        }]);
+
+    });
+
+
+});
 
 /**
  * Rutas Relacionadas al Producto
@@ -59,6 +81,9 @@ Route::post('products.add',['as'=>'product_save','uses'=>'ProductsController@sav
 Route::get('products.edit/{slug}/{id}',['as'=>'product_edit','uses'=>'ProductsController@edit']);
 Route::get('products.show/{slug}/{id}',['as'=>'product_show','uses'=>'ProductsController@show']);
 
+
+
+
 /**
  * Rutas de Las categorias de Productos
 */
@@ -66,3 +91,5 @@ Route::get('products.categories',['as'=>'product_category','uses'=>'ProductsCate
 Route::get('products.categories.add',['as'=>'product_category_add','uses'=>'ProductsCategoriesController@add']);
 Route::get('products.categories.edit/{slug}/{id}',['as'=>'product_category_edit','uses'=>'ProductsCategoriesController@edit']);
 Route::get('products.categories.show',['as'=>'product_category_show','uses'=>'ProductsCategoriesController@show']);
+
+
