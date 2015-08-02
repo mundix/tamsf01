@@ -21,7 +21,7 @@ class ProductsCategoriesController extends BaseController
 	public function index()
 	{
 		$categories = $this->productCategoryRepo->getList();
-		return View::make("themes/{$this->theme}/pages/inventory/productscategories/show",compact('categories'));
+		return View::make("themes/{$this->theme}/pages/inventory/products/productscategories/show",compact('categories'));
 	}
 	/**
 	 * Formulario de insertar nueva categoria
@@ -37,7 +37,10 @@ class ProductsCategoriesController extends BaseController
 //		dd(Input::all());
 
 		$entity = $this->productCategoryRepo->newCategory();
+		$entity->slug = \Str::slug(Input::get('name'));
+		$entity->available = 1;
 		$manager = new ProductCategoryManager($entity,Input::all());
+
 		$manager->save();
 		return Redirect::route('home');
 

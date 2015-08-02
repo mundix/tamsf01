@@ -13,4 +13,9 @@ class ProductCategory extends \Eloquent {
 	{
 		$this->hasMany('Inventory\Entities\Product');
 	}
+
+	public function setSlug()
+	{
+
+	}
 }
