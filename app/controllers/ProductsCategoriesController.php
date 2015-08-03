@@ -4,7 +4,7 @@ use Inventory\Repositories\ProductRepo;
 use Inventory\Repositories\ProductCategoryRepo;
 use Inventory\Managers\ProductCategoryManager;
 
-class ProductsCategoriesController extends BaseController
+class ProductsCategoriesController extends AssetsController
 {
 
 	protected $productCategoryRepo;
@@ -16,12 +16,16 @@ class ProductsCategoriesController extends BaseController
 		$this->productCategoryRepo =  $productCategoryRepo;
 	}
 	/**
+	 *
 	 * Listado de Categorias
+	 *
 	*/
 	public function index()
 	{
+		$javascripts = $this->getJsDataTables();
 		$categories = $this->productCategoryRepo->getList();
-		return View::make("themes/{$this->theme}/pages/inventory/products/productscategories/show",compact('categories'));
+		$data = $this->getProductsData();
+		return View::make("themes/{$this->theme}/pages/inventory/products/productscategories/show",compact('categories','javascripts','data'));
 	}
 	/**
 	 * Formulario de insertar nueva categoria
@@ -29,7 +33,8 @@ class ProductsCategoriesController extends BaseController
 	public function add()
 	{
 		$categories = $this->productCategoryRepo->getList();
-		return View::make("themes/{$this->theme}/forms/inventory/productscategories/add",compact('categories'));
+		$data = $this->getProductsData();
+		return View::make("themes/{$this->theme}/forms/inventory/productscategories/add",compact('categories','data'));
 	}
 
 	public function save()

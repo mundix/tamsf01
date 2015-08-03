@@ -22,8 +22,8 @@ class CreateProductsTable extends Migration {
 			$table->integer("stock");
 			$table->integer("min_stock");
 			$table->float("price",2);
-			$table->float("min_price",2);
-			$table->float("discount",2);
+			$table->double("min_price",15,2);
+			$table->double("discount",15,2);
 			$table->boolean("discount_apply");
 			$table->integer("user_id")->unsigned();
 			$table->foreign("user_id")->references("id")->on("users");

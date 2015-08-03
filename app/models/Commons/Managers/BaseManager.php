@@ -8,8 +8,8 @@ namespace Commons\Managers;
 abstract class BaseManager
 {
 
-    protected $entity;
-    protected $data;
+    public $entity;
+    public $data;
 
     public function __construct($entity,$data)
     {
@@ -26,9 +26,7 @@ abstract class BaseManager
     public function isValid()
     {
         $rules = $this->getRules();
-
         $validation = \Validator::make($this->data,$rules);
-
         if($validation->fails())
         {
             throw new ValidationException('Validation Failed',$validation->messages());
@@ -38,11 +36,14 @@ abstract class BaseManager
     public function save()
     {
         $this->isValid();
-
         $this->entity->fill($this->prepareData($this->data));//Asigna todos los datos, function fill de eloquent y que salve
         $this->entity->save();
-
         return TRUE;
+    }
+
+    public function fillData()
+    {
+        $this->entity->fill($this->prepareData($this->data));//Asigna todos los datos, function fill de eloquent y que salve
     }
 
     public function prepareData($data)

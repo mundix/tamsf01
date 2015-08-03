@@ -22,4 +22,15 @@ abstract class BaseRepo
     {
         return $this->model->find($id);
     }
+    /**
+     * @param String $orderBy
+     * @param String $sort
+     * @return Array
+    */
+    public function all($orderBy = null,$sort = 'ASC')
+    {
+        if(!is_null($orderBy))
+            return $this->model->orderBy($orderBy,$sort)->get();
+        return $this->model->all();
+    }
 }

@@ -5,7 +5,7 @@
             <h4><i class="icon-reorder"></i>Nuevo Producto</h4>
         </div>
         <div class="widget-content">
-            {{ Form::open(['route'=>'product_save','method'=>'POST','role'=>'form','class'=>'form-horizontal row-border']) }}
+            {{ Form::model($entity,['route'=>'product_save','method'=>'POST','role'=>'form','class'=>'form-horizontal row-border']) }}
 
                 <div class="form-group">
                     {{ Form::label('name','Nombre Producto',['class'=>'col-md-2 control-label']) }}

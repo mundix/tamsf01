@@ -17,4 +17,11 @@ class ProductRepo extends BaseRepo
         return new Product;
     }
 
+    public function newProduct()
+    {
+        $entity = new Product();
+        return $entity;
+    }
+
+
 }

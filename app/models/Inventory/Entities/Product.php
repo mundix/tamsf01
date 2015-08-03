@@ -4,8 +4,32 @@ namespace Inventory\Entities;
 
 class Product extends \Eloquent
 {
-	protected $fillable = ['name','description',''];
+	protected $fillable = [
+		'name',
+		'description',
+		'category_id',
+		'sku',
+		'stock',
+		'min_stock',
+		'price',
+		'min_price',
+		'discount',
+		'discount_apply',
+		'user_id',
+		'date_in',
+		'date_out',
+		'available'
+	];
 	protected $perPage = 20;
+
+//	/**
+//	 * Setear el precio del producto y el precio minmio
+//	*/
+//	public function setPriceAttribute($value)
+//	{
+//		$this->attribute['price'] = str_replace(",","",$value);
+//	}
+
 
 	public function user()
 	{

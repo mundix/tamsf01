@@ -33,6 +33,12 @@
     <![endif]-->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 
+    @if(isset($styles) && sizeof($styles) && is_array($styles))
+        @foreach($styles as $css)
+            <link rel="stylesheet" href="{{asset($css)}}">
+        @endforeach
+    @endif
+
     <!--=== JavaScript ===-->
 
     <script type="text/javascript" src="{{ asset('melon/js/libs/jquery-1.10.2.min.js')}}"></script>
@@ -90,6 +96,12 @@
     <script type="text/javascript" src="{{ asset('melon/js/app.js') }}"></script>
     <script type="text/javascript" src="{{ asset('melon/js/plugins.js') }}"></script>
     <script type="text/javascript" src="{{ asset('melon/js/plugins.form-components.js') }}"></script>
+
+    @if(isset($javascripts) && sizeof($javascripts) && is_array($javascripts))
+        @foreach($javascripts as $js)
+            <script type="text/javascript" src="{{asset($js)}}"></script>
+        @endforeach
+    @endif
 
     <script>
         $(document).ready(function(){
@@ -605,14 +617,14 @@
             <div class="page-header">
                 <div class="page-title">
                     <h3>Resumen</h3>
-                    <span>Bienvenido, {{ Auth::user()->full_name }}!</span>
+                    <span>Bienvenido, {{ \Auth::user()->full_name }}!</span>
                 </div>
                 <!-- Page Stats -->
                 <ul class="page-stats">
                     <li>
                         <div class="summary">
                             <span>Nuevas Ordenes</span>
-                            <h3>17,561</h3>
+                            <h3>0</h3>
                         </div>
                         <div id="sparkline-bar" class="graph sparkline hidden-xs">20,15,8,50,20,40,20,30,20,15,30,20,25,20</div>
                         <!-- Use instead of sparkline e.g. this:
@@ -621,8 +633,8 @@
                     </li>
                     <li>
                         <div class="summary">
-                            <span>Total a la Fecha</span>
-                            <h3>$21,561.21</h3>
+                            <span>Total en Inventario</span>
+                            <h3>$ {{ number_format($data['total'],2) }}</h3>
                         </div>
                         <div id="sparkline-bar2" class="graph sparkline hidden-xs">20,15,8,50,20,40,20,30,20,15,30,20,25,20</div>
                     </li>

@@ -2,10 +2,10 @@
 
 use Inventory\Repositories\ProductCategoryRepo;
 use Inventory\Repositories\ProductRepo;
+use Inventory\Managers\ProductManager;
 
-class ProductsController extends BaseController
+class ProductsController extends AssetsController
 {
-
 	protected $productRepo;
 	protected $productCategoryRepo;
 
@@ -15,13 +15,13 @@ class ProductsController extends BaseController
 		$this->productCategoryRepo  = $productCategoryRepo;
 	}
 
-	public function category($slug,$id)
-	{
-		dd($slug);
-	}
 	public function index()
 	{
-		return View::make('themes/melon/tpls/layout');
+//		echo "<pre>";
+		$products = $this->productRepo->all('id','DESC');
+		$javascripts = $this->getJsDataTables();
+		$data = $this->getProductsData();
+		return View::make('themes/melon/pages/inventory/products/show',compact('products','javascripts','data'));
 	}
 
 	/**
@@ -30,17 +30,25 @@ class ProductsController extends BaseController
 	public function add()
 	{
 		$categories = $this->productCategoryRepo->getList();
-
-		return View::make("themes/{$this->theme}/forms/inventory/products/add",compact('categories'));
+		$data = $this->getProductsData();
+		return View::make("themes/{$this->theme}/forms/inventory/products/add",compact('categories','data'));
 	}
+	/**
+	 * Guardando la entidad atraves del manager.
+	*/
 	public function save()
 	{
-		echo "<pre>";
-		dd(Input::all());
+		$entity = $this->productRepo->newProduct();
+		$manager = new ProductManager($entity,Input::all());
+		$manager->save();
+		return Redirect::route('products');
 	}
-	public function edit()
+	public function edit($slug,$id)
 	{
-		return "vamos a editar";
+		$entity = $this->productRepo->find($id);
+		$categories = $this->productCategoryRepo->getList();
+		$data = $this->getProductsData();
+		return View::make("themes/{$this->theme}/forms/inventory/products/edit",compact('entity','categories','data'));
 	}
 	public function show($sluge,$id)
 	{
