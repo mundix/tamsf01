@@ -72,32 +72,39 @@ Route::group(['before' => 'auth'], function()
 
     });
 
+    /**
+     * Rutas Relacionadas al Producto
+    */
+    Route::get('products',['as'=>'products','uses'=>'ProductsController@index']);
 
+    Route::get('products.add',['as'=>'product_add','uses'=>'ProductsController@add']);
+    Route::post('products.add',['as'=>'product_save','uses'=>'ProductsController@save']);
+
+    Route::get('products.edit/{slug}/{id}',['as'=>'product_edit','uses'=>'ProductsController@edit']);
+    Route::get('products.show/{slug}/{id}',['as'=>'product_show','uses'=>'ProductsController@show']);
+
+    /**
+     * Rutas de Las categorias de Productos
+    */
+    Route::get('products.categories',['as'=>'products_categories','uses'=>'ProductsCategoriesController@index']);
+    Route::get('products.categories.add',['as'=>'product_category_add','uses'=>'ProductsCategoriesController@add']);
+    Route::post('products.categories.add',['as'=>'product_category_save','uses'=>'ProductsCategoriesController@save']);
+
+    Route::get('products.categories.edit/{slug}/{id}',['as'=>'product_category_edit','uses'=>'ProductsCategoriesController@edit']);
+    Route::post('products.categories.edit/{slug}/{id}',['as'=>'product_category_edit','uses'=>'ProductsCategoriesController@edit']);
+    Route::get('products.categories.show',['as'=>'product_category_show','uses'=>'ProductsCategoriesController@show']);
+
+
+
+    /**
+     * ###############################
+     * Operciones
+     * ###############################
+    */
+    /**
+     * Ventas
+    */
+    Route::get('sales',['as'=>'make_sale','uses'=>'OperationsController@sales']);
+
+    Route::get('products.search',['as'=>'products_search','uses'=>'ProductsController@search'] );
 });
-
-/**
- * Rutas Relacionadas al Producto
-*/
-Route::get('products',['as'=>'products','uses'=>'ProductsController@index']);
-
-Route::get('products.add',['as'=>'product_add','uses'=>'ProductsController@add']);
-Route::post('products.add',['as'=>'product_save','uses'=>'ProductsController@save']);
-
-Route::get('products.edit/{slug}/{id}',['as'=>'product_edit','uses'=>'ProductsController@edit']);
-Route::get('products.show/{slug}/{id}',['as'=>'product_show','uses'=>'ProductsController@show']);
-
-
-
-
-/**
- * Rutas de Las categorias de Productos
-*/
-Route::get('products.categories',['as'=>'products_categories','uses'=>'ProductsCategoriesController@index']);
-Route::get('products.categories.add',['as'=>'product_category_add','uses'=>'ProductsCategoriesController@add']);
-Route::post('products.categories.add',['as'=>'product_category_save','uses'=>'ProductsCategoriesController@save']);
-
-Route::get('products.categories.edit/{slug}/{id}',['as'=>'product_category_edit','uses'=>'ProductsCategoriesController@edit']);
-Route::post('products.categories.edit/{slug}/{id}',['as'=>'product_category_edit','uses'=>'ProductsCategoriesController@edit']);
-Route::get('products.categories.show',['as'=>'product_category_show','uses'=>'ProductsCategoriesController@show']);
-
-

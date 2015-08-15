@@ -1,7 +1,7 @@
 <?php
 use Inventory\Repositories\ProductRepo;
 
-class DashboardController extends BaseController
+class DashboardController extends AssetsController
 {
 	protected  $productRepo;
 
@@ -15,6 +15,8 @@ class DashboardController extends BaseController
 	*/
 	public function index()
 	{
-		return View::make('themes/melon/pages/dashboard');
+		$data = $this->getProductsData();
+//		dd($data);
+		return View::make('themes/melon/pages/dashboard',compact('data'));
 	}
 }

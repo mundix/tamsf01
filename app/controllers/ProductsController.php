@@ -54,4 +54,10 @@ class ProductsController extends AssetsController
 	{
 		return "presentando el producto $id";
 	}
+
+	public function search()
+	{
+		$input = Input::get('search');
+		return  $this->productRepo->search($input);
+	}
 }

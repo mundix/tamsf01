@@ -5,6 +5,7 @@
 */
 
 namespace Inventory\Repositories;
+
 use Commons\Repositories\BaseRepo;
 use Inventory\Entities\ProductCategory;
 
@@ -24,7 +25,6 @@ class ProductCategoryRepo extends BaseRepo
     public function newCategory()
     {
         $entity = new ProductCategory();
-//        $entity->type = 'candidate';
         return $entity;
     }
 }

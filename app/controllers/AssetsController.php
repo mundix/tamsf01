@@ -4,8 +4,17 @@
  * Este controller, contendra los assets necesarios
  * como javascript y css para los templates
 */
+use Inventory\Repositories\ProductRepo;
+
 class AssetsController extends BaseController
 {
+    protected $productRepo;
+
+    public function __construct(ProductRepo $productRepo)
+    {
+        $this->productRepo = $productRepo;
+    }
+
     protected function getJsDataTables()
     {
         return [
@@ -28,12 +37,16 @@ class AssetsController extends BaseController
 
     public function getProductsData()
     {
-        $raw = \DB::table('products')
-            ->select(DB::raw('sum(stock * price) as total'))
-            ->get();
-
         return [
-            'total' => $raw[0]->total
+            'total_inventory_amount' => $this->productRepo->getTotalProductsAmount(),
+            'total_inventory_products' => $this->productRepo->getTotalProducts(),
+        ];
+    }
+
+    public function cashierStyle()
+    {
+        return [
+            'css/cashier.css'
         ];
     }
 }

@@ -20,36 +20,30 @@ class ProductManager extends  BaseManager
             'min_price'     => 'required|numeric',
             'available'     => 'in:1,0',
 
-//            'min_price',
-//            'discount',
-//            'discount_apply',
-//            'user_id',
-//            'date_in',
-//            'date_out',
-//            'available'
         ];
         return $rules;
     }
 
     public function prepareData($data)
     {
-//        if(!isset($data['available']))
-//        {
-//            $data['available'] = 1;
-//        }
-//        $this->entity->slug = \Str::slug($this->entity->name);
-//        $data['user_id'] = \Auth::user()->id;
-//        $data['name'] = strip_tags($data['name']);
-//        $data['description'] = strip_tags($data['description']);
-//        $data['slug'] = \Str::slug($data('name'));
-//        $data['price'] = str_replace(",","",$data['price']);
-//        $data['min_price'] = str_replace(",","",$data['min_price']);
+
         $this->entity->price = str_replace(",","",$data['price']);
         $this->entity->min_price = str_replace(",","",$data['min_price']);
 
         $this->entity->slug = \Str::slug(strip_tags($data['name']));
         $this->entity->user_id = \Auth::user()->id;
-        $this->entity->description = strip_tags($data['description']);;
+        $this->entity->description = strip_tags($data['description']);
+
+        if(isset($data['discount_apply']))
+            $this->entity->discount_apply = 1;
+        else
+            $this->entity->discount_apply = 0;
+
+        if(isset($data['discount']))
+            $this->entity->discount = strip_tags($data['discount']);
+        else
+            $this->entity->discount = 0;
+
         $this->entity->name = strip_tags($data['name']);
         $this->entity->available = 1;
 

@@ -4,13 +4,10 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-    <title>Login | Melon - Flat &amp; Responsive Admin Template</title>
-
+    <title>Login | AmsisFACTURA </title>
     <!--=== CSS ===-->
-
     <!-- Bootstrap -->
     <link href="{{asset('melon/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet" type="text/css" />
-
     <!-- Theme -->
     <link href="{{ asset('melon/css/main.css') }}" rel="stylesheet" type="text/css" />
     <link href="{{asset('melon/css/plugins.css')}}" rel="stylesheet" type="text/css" />
@@ -74,7 +71,6 @@
 <div class="box">
     <div class="content">
         <!-- Login Formular -->
-{{--            {{ Form::open(['route'=>'login','method'=>'POST','role' => 'form', 'class'=> 'form-vertical login-form' ]) }}--}}
             {{ Form::open(['route'=>'login','method'=>'POST','role' => 'form', 'class'=> 'form-vertical login-form' ]) }}
                     <!-- Title -->
             <h3 class="form-title">Entra a tu cuenta</h3>
