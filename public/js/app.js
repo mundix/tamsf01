@@ -124,7 +124,9 @@ $(function()
 
 
 });
-
+/**
+ * Display Total
+ * */
 function getTotal()
 {
     total = 0;
@@ -138,7 +140,9 @@ function getTotal()
     $("#cashier").val("RD$ "+parseFloat(total));
 
 }
-
+/**
+ * Display Tota w/ Taxes
+ * */
 function getTotalWTaxes()
 {
     total_itbis = 0;
